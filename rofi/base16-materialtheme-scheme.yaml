@@ -1,0 +1,18 @@
+# Custom pywall theme based on base16-materialtheme-scheme
+
+# Background color
+base00: "#002B36"
+
+# Foreground color
+base01: "#C5E8C6"
+
+# Accent color
+base03: "#EC7875"
+
+# Other colors (optional)
+base02: "#93A1A1"
+base04: "#6C777C"
+# ... (add more colors as needed)
+
+# Transparency (optional)
+alpha: 0.9  # Adjust opacity (0.0 to 1.0)
