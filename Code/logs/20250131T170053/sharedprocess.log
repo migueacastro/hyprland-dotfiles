@@ -1,0 +1,72 @@
+2025-01-31 17:01:01.526 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-01-31 17:01:01.529 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-01-31 17:01:01.530 [info] Getting Manifest... ms-mssql.mssql
+2025-01-31 17:01:01.530 [info] Getting Manifest... ms-vscode.cpptools
+2025-01-31 17:01:01.531 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2025-01-31 17:01:02.239 [info] Installing extension: ms-mssql.mssql {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-31 17:01:02.254 [info] Installing extension: vscode-icons-team.vscode-icons {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-31 17:01:02.292 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-31 17:01:02.312 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-31 17:01:02.428 [info] Installing extension: ms-vscode.cpptools {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-31 17:01:03.532 [info] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: UnknownError. Executed: true. Duration: 26ms.
+2025-01-31 17:01:03.603 [info] Extracted extension to file:///home/miguel/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.6: ms-dotnettools.vscode-dotnet-runtime
+2025-01-31 17:01:03.608 [info] Renamed to /home/miguel/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.6
+2025-01-31 17:01:03.627 [info] Marked extension as uninstalled ms-dotnettools.vscode-dotnet-runtime-2.2.5
+2025-01-31 17:01:03.661 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-31 17:01:03.676 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 6ms.
+2025-01-31 17:01:03.696 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-31 17:01:03.797 [info] Extracted extension to file:///home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.2: bradlc.vscode-tailwindcss
+2025-01-31 17:01:03.801 [info] Renamed to /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.2
+2025-01-31 17:01:03.815 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.14.1
+2025-01-31 17:01:03.837 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-31 17:01:03.882 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-31 17:01:06.128 [info] Extension signature verification result for ms-mssql.mssql: UnknownError. Executed: true. Duration: 5ms.
+2025-01-31 17:01:07.143 [info] Extension signature verification result for vscode-icons-team.vscode-icons: UnknownError. Executed: true. Duration: 6ms.
+2025-01-31 17:01:08.117 [info] Extracted extension to file:///home/miguel/.vscode/extensions/vscode-icons-team.vscode-icons-12.11.0: vscode-icons-team.vscode-icons
+2025-01-31 17:01:08.146 [info] Renamed to /home/miguel/.vscode/extensions/vscode-icons-team.vscode-icons-12.11.0
+2025-01-31 17:01:08.198 [info] Marked extension as uninstalled vscode-icons-team.vscode-icons-12.10.0
+2025-01-31 17:01:08.220 [info] Extension installed successfully: vscode-icons-team.vscode-icons vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-31 17:01:08.231 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-31 17:01:09.865 [info] Extracted extension to file:///home/miguel/.vscode/extensions/ms-mssql.mssql-1.28.0: ms-mssql.mssql
+2025-01-31 17:01:10.101 [info] Renamed to /home/miguel/.vscode/extensions/ms-mssql.mssql-1.28.0
+2025-01-31 17:01:10.141 [info] Marked extension as uninstalled ms-mssql.mssql-1.27.0
+2025-01-31 17:01:10.167 [info] Extension installed successfully: ms-mssql.mssql vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-31 17:01:10.187 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-31 17:01:14.467 [info] Extension signature verification result for ms-vscode.cpptools: UnknownError. Executed: true. Duration: 48ms.
+2025-01-31 17:01:21.561 [info] Getting Manifest... ms-vscode.cpptools
+2025-01-31 17:01:21.769 [info] Extension is already requested to install ms-vscode.cpptools vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-31 17:01:26.938 [info] Extracted extension to file:///home/miguel/.vscode/extensions/ms-vscode.cpptools-1.23.5-linux-x64: ms-vscode.cpptools
+2025-01-31 17:01:26.983 [info] Renamed to /home/miguel/.vscode/extensions/ms-vscode.cpptools-1.23.5-linux-x64
+2025-01-31 17:01:27.058 [info] Marked extension as uninstalled ms-vscode.cpptools-1.22.11-linux-x64
+2025-01-31 17:01:27.070 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-31 17:01:27.079 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

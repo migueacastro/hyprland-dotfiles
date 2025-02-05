@@ -1,0 +1,54 @@
+2025-01-31 17:16:12.335 [info] Name: Black Formatter
+2025-01-31 17:16:12.335 [info] Module: black
+2025-01-31 17:16:12.335 [info] Default formatter is set to null for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:16:12.335 [warning] Black Formatter is NOT set as the default formatter for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:16:12.335 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-01-31 17:16:12.335 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-01-31 17:16:12.335 [info] Python extension loading
+2025-01-31 17:16:12.335 [info] Waiting for interpreter from python extension.
+2025-01-31 17:16:14.789 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-31 17:16:14.789 [info] Getting interpreter from ms-python.python extension for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:16:14.791 [info] Python extension loaded
+2025-01-31 17:16:14.794 [info] Interpreter from ms-python.python extension for /home/miguel/Desktop/repositories/dimpro-rest: /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-31 17:16:14.795 [info] Workspace settings for /home/miguel/Desktop/repositories/dimpro-rest (client side): {
+    "cwd": "/home/miguel/Desktop/repositories/dimpro-rest",
+    "workspace": "file:///home/miguel/Desktop/repositories/dimpro-rest",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-31 17:16:14.795 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-31 17:16:14.795 [info] Getting interpreter from ms-python.python extension for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:16:14.835 [info] Interpreter from ms-python.python extension for /home/miguel/Desktop/repositories/dimpro-rest: /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-31 17:16:14.835 [info] Workspace settings for /home/miguel/Desktop/repositories/dimpro-rest (client side): {
+    "cwd": "/home/miguel/Desktop/repositories/dimpro-rest",
+    "workspace": "file:///home/miguel/Desktop/repositories/dimpro-rest",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-31 17:16:14.837 [info] Global settings (client side): {
+    "cwd": "/home/miguel",
+    "workspace": "/home/miguel",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-31 17:16:14.872 [info] Server run command: /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python /home/miguel/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2025-01-31 17:16:14.875 [info] Server: Start requested.
+2025-01-31 17:16:14.891 [info] [Error - 5:16:14 PM] Black Formatter client: couldn't create connection to server.
+2025-01-31 17:16:14.891 [info] Launching server using command /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python failed. Error: spawn /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python ENOENT
+2025-01-31 17:16:14.892 [error] Server: Start failed: Launching server using command /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python failed. Error: spawn /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python ENOENT

@@ -1,0 +1,285 @@
+2025-01-21 16:46:32.125 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-21 16:46:33.338 [info] [Info  - 4:46:33 PM] (17314) Server root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-21 16:46:33.339 [info] [Info  - 4:46:33 PM] (17314) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-21 16:46:33.373 [info] [Info  - 4:46:33 PM] (17314) Starting service instance "dimpro-rest"
+2025-01-21 16:46:33.548 [info] [Info  - 4:46:33 PM] (17314) Setting environmentName for service "dimpro-rest": "3.13.1 (.venv venv)"
+2025-01-21 16:46:33.552 [info] [Info  - 4:46:33 PM] (17314) Setting pythonPath for service "dimpro-rest": "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+2025-01-21 16:46:33.554 [info] [Info  - 4:46:33 PM] (17314) No include entries specified; assuming /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-21 16:46:33.557 [info] [Info  - 4:46:33 PM] (17314) Auto-excluding **/node_modules
+2025-01-21 16:46:33.557 [info] [Info  - 4:46:33 PM] (17314) Auto-excluding **/__pycache__
+2025-01-21 16:46:33.557 [info] [Info  - 4:46:33 PM] (17314) Auto-excluding **/.*
+2025-01-21 16:46:33.621 [info] [Info  - 4:46:33 PM] (17314) Assuming Python version 3.13.1.final.0
+2025-01-21 16:46:34.189 [info] [Info  - 4:46:34 PM] (17314) Found 22 source files
+2025-01-21 16:46:35.805 [info] [Info  - 4:46:35 PM] (17314) Starting service instance "<default>"
+2025-01-21 16:46:35.885 [info] [Info  - 4:46:35 PM] (17314) Setting environmentName for service "<default>": "3.13.1 (.venv venv)"
+2025-01-21 16:46:35.890 [info] [Info  - 4:46:35 PM] (17314) Setting pythonPath for service "<default>": "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+2025-01-21 16:46:35.892 [info] [Info  - 4:46:35 PM] (17314) No include entries specified; assuming /<default workspace root>
+2025-01-21 16:46:35.926 [info] [Info  - 4:46:35 PM] (17314) Auto-excluding **/node_modules
+2025-01-21 16:46:35.945 [info] [Info  - 4:46:35 PM] (17314) Auto-excluding **/__pycache__
+2025-01-21 16:46:35.946 [info] [Info  - 4:46:35 PM] (17314) Auto-excluding **/.*
+2025-01-21 16:46:36.023 [info] [Info  - 4:46:36 PM] (17314) Assuming Python version 3.13.1.final.0
+2025-01-21 16:46:36.139 [info] [Error - 4:46:36 PM] (17314) File or directory "/<default workspace root>" does not exist.
+2025-01-21 16:46:36.139 [info] [Info  - 4:46:36 PM] (17314) No source files found.
+2025-01-21 16:46:36.249 [info] [Info  - 4:46:36 PM] (17314) Background analysis(1) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-21 16:46:36.259 [info] [Info  - 4:46:36 PM] (17314) Background analysis(1) started
+2025-01-21 16:46:37.056 [info] [Info  - 4:46:37 PM] (17314) Indexer background runner(2) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-21 16:46:37.059 [info] [Info  - 4:46:37 PM] (17314) Indexing(2) started
+2025-01-21 16:46:37.951 [info] [Info  - 4:46:37 PM] (17314) Background analysis(3) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-21 16:46:37.968 [info] [Info  - 4:46:37 PM] (17314) Background analysis(3) started
+2025-01-21 16:46:39.220 [info] [Info  - 4:46:39 PM] (17314) scanned(2) 38 files over 1 exec env
+2025-01-21 16:46:39.621 [info] [Info  - 4:46:39 PM] (17314) indexed(2) 38 files over 1 exec env
+2025-01-21 16:46:39.706 [info] [Info  - 4:46:39 PM] (17314) Indexing finished(2).
+2025-01-21 16:46:40.587 [info] [Info  - 4:46:40 PM] (17314) [BG(1)] Long operation: checking: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py (2243ms)
+2025-01-21 16:46:40.590 [info] [Info  - 4:46:40 PM] (17314) [BG(1)] Long operation: analyzing: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py (2295ms)
+2025-01-21 19:57:34.304 [info] [Info  - 7:57:34 PM] (17314) [BG(1)] Long operation: checking: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py (2385ms)
+2025-01-21 19:57:34.313 [info] [Info  - 7:57:34 PM] (17314) [BG(1)] Long operation: analyzing: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py (2388ms)
+2025-01-21 20:02:00.908 [info] [Info  - 8:02:00 PM] (17314) [BG(1)] Long operation: checking: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py (3193ms)
+2025-01-21 20:02:00.910 [info] [Info  - 8:02:00 PM] (17314) [BG(1)] Long operation: analyzing: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py (3226ms)
+2025-01-21 20:21:38.646 [info] [Info  - 8:21:38 PM] (17314) [BG(1)] Long operation: checking: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py (2439ms)
+2025-01-21 20:21:38.654 [info] [Info  - 8:21:38 PM] (17314) [BG(1)] Long operation: analyzing: file:///home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py (2462ms)
+2025-01-21 20:37:46.752 [info] [Error - 8:37:46 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:37:47.029 [info] [Error - 8:37:47 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:37:47.357 [info] [Error - 8:37:47 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:42:06.292 [info] [Error - 8:42:06 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:42:06.794 [info] [Error - 8:42:06 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:42:07.025 [info] [Error - 8:42:07 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:46:55.198 [info] [Error - 8:46:55 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:46:55.507 [info] [Error - 8:46:55 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 20:46:55.887 [info] [Error - 8:46:55 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:21:45.320 [info] [Error - 9:21:45 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:21:45.764 [info] [Error - 9:21:45 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:21:46.084 [info] [Error - 9:21:46 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:24:45.816 [info] [Error - 9:24:45 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:24:46.286 [info] [Error - 9:24:46 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:24:46.567 [info] [Error - 9:24:46 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:24:48.458 [info] [Error - 9:24:48 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:24:49.102 [info] [Error - 9:24:49 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:39:00.314 [info] [Info  - 9:39:00 PM] (17314) Indexer background runner(4) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (refresh)
+2025-01-21 21:39:00.314 [info] [Info  - 9:39:00 PM] (17314) Indexing(4) started
+2025-01-21 21:39:02.075 [info] [Info  - 9:39:02 PM] (17314) scanned(4) 39 files over 1 exec env
+2025-01-21 21:39:02.588 [info] [Info  - 9:39:02 PM] (17314) indexed(4) 39 files over 1 exec env
+2025-01-21 21:39:02.612 [info] [Info  - 9:39:02 PM] (17314) Indexing finished(4).
+2025-01-21 21:47:59.509 [info] [Error - 9:47:59 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:48:00.347 [info] [Error - 9:48:00 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 21:48:00.601 [info] [Error - 9:48:00 PM] (17314) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:342419)
+    at Object.t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:337330)
+    at t.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:326181)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:329028)
+    at s.run (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/vendor.bundle.js:2:2099573)
+    at _0x538e00.getRecommendations (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:425273)
+    at _0x3b7375.addCompletionItems (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:436757)
+    at /home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:942743
+    at _0x385985.handleCompletion (/home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/server.bundle.js:1:938796)
+2025-01-21 22:23:45.271 [info] [Info  - 10:23:45 PM] (17314) Found 23 source files

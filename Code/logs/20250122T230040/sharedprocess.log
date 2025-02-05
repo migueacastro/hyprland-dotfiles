@@ -1,0 +1,8 @@
+2025-01-22 23:00:43.129 [info] Deleted uninstalled extension from disk bradlc.vscode-tailwindcss /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.0
+2025-01-22 23:00:43.266 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.0.-4487191a.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.0.-4487191a.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

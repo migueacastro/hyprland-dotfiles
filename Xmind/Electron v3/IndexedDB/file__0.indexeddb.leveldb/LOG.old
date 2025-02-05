@@ -1,0 +1,6 @@
+2025/01/30-01:32:48.939 df37 Creating DB /home/miguel/.config/Xmind/Electron v3/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2025/01/30-01:32:48.948 df37 Reusing MANIFEST /home/miguel/.config/Xmind/Electron v3/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/01/30-16:28:35.646 12a25 Level-0 table #5: started
+2025/01/30-16:28:35.650 12a25 Level-0 table #5: 2537 bytes OK
+2025/01/30-16:28:35.656 12a25 Delete type=0 #3
+2025/01/30-16:28:35.656 12a25 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

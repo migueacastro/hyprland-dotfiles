@@ -1,0 +1,99 @@
+pgAdmin Runtime Environment
+--------------------------------------------------------
+Python Path: "/usr/lib/pgadmin4/venv/bin/python3"
+Runtime Config File: "/home/miguel/.config/pgadmin4/config.json"
+Webapp Path: "/usr/lib/pgadmin4/web/pgAdmin4.py"
+pgAdmin Command: "/usr/lib/pgadmin4/venv/bin/python3 -s /usr/lib/pgadmin4/web/pgAdmin4.py"
+Environment: 
+  - SHELL: /usr/bin/bash
+  - HYPRLAND_CMD: Hyprland
+  - XDG_SESSION_PATH: /org/freedesktop/DisplayManager/Session2
+  - XDG_BACKEND: wayland
+  - DESKTOP_SESSION: hyprland
+  - HL_INITIAL_WORKSPACE_TOKEN: 1cef5e65-9df2-4f04-a9bd-0a8b441a7ece
+  - XCURSOR_SIZE: 24
+  - XDG_SEAT: seat0
+  - PWD: /home/miguel
+  - LOGNAME: miguel
+  - XDG_SESSION_DESKTOP: Hyprland
+  - QT_QPA_PLATFORMTHEME: qt6ct
+  - XDG_SESSION_TYPE: wayland
+  - MOTD_SHOWN: pam
+  - HOME: /home/miguel
+  - LANG: en_US.UTF-8
+  - _JAVA_AWT_WM_NONREPARENTING: 1
+  - XDG_CURRENT_DESKTOP: Hyprland
+  - WAYLAND_DISPLAY: wayland-1
+  - XDG_SEAT_PATH: /org/freedesktop/DisplayManager/Seat0
+  - XDG_SESSION_CLASS: user
+  - USER: miguel
+  - ELECTRON_FORCE_IS_PACKAGED: true
+  - HYPRLAND_INSTANCE_SIGNATURE: 0bd541f2fd902dbfa04c3ea2ccf679395e316887_1738356813_144762387
+  - DISPLAY: :0
+  - SHLVL: 0
+  - MOZ_ENABLE_WAYLAND: 1
+  - XDG_VTNR: 2
+  - XDG_SESSION_ID: 2
+  - XDG_RUNTIME_DIR: /run/user/1000
+  - DEBUGINFOD_URLS: https://debuginfod.archlinux.org 
+  - HYPRCURSOR_THEME: Adwaita
+  - PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/miguel/.local/share/JetBrains/Toolbox/scripts
+  - DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+  - MAIL: /var/spool/mail/miguel
+  - ELECTRON_IS_DEV: 0
+  - HYPRCURSOR_SIZE: 28
+  - __LLVM_PROFILE_RT_INIT_ONCE: __LLVM_PROFILE_RT_INIT_ONCE
+  - CHROME_DESKTOP: pgadmin4.desktop
+  - ORIGINAL_XDG_CURRENT_DESKTOP: Hyprland
+  - ELECTRON_ENABLE_SECURITY_WARNINGS: false
+  - GDK_BACKEND: x11
+  - NO_AT_BRIDGE: 1
+  - PGADMIN_INT_PORT: 5050
+  - PGADMIN_INT_KEY: ae475b20-9790-4e64-a7cf-41bb57a15c27
+  - PGADMIN_SERVER_MODE: OFF
+--------------------------------------------------------
+
+Total spawn time to start the pgAdmin4 server: 0.018 Sec
+2025-01-31 23:10:46,011: WARNING	werkzeug:	Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+
+ * Serving Flask app 'pgadmin'
+ * Debug mode: off
+
+------------------------------------------
+Total time taken to ping pgAdmin4 server: 6.02 Sec
+------------------------------------------
+Total launch time of pgAdmin4: 6.168 Sec
+------------------------------------------
+Application Server URL: http://127.0.0.1:5050/?key=ae475b20-9790-4e64-a7cf-41bb57a15c27
+2025-01-31 23:28:28,165: ERROR	pgadmin:	404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+Traceback (most recent call last):
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-01-31 23:28:28,199: ERROR	pgadmin:	404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+Traceback (most recent call last):
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/lib/pgadmin4/venv/lib/python3.13/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+

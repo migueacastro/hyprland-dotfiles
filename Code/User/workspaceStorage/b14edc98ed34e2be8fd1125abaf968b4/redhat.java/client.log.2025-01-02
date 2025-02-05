@@ -1,0 +1,47 @@
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2025-01-02 13:28:09.610'
+}
+{
+  message: 'Starting Java server with: /home/miguel/.vscode/extensions/redhat.java-1.38.0-linux-x64/jre/17.0.13-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/miguel/.vscode/extensions/redhat.java-1.38.0-linux-x64/lombok/lombok-1.18.34.jar -jar /home/miguel/.vscode/extensions/redhat.java-1.38.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /home/miguel/.config/Code/User/globalStorage/redhat.java/1.38.0/config_ss_linux -data /home/miguel/.config/Code/User/workspaceStorage/b14edc98ed34e2be8fd1125abaf968b4/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2025-01-02 13:28:14.149'
+}
+{
+  message: 'Starting Java server with: /home/miguel/.vscode/extensions/redhat.java-1.38.0-linux-x64/jre/17.0.13-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/miguel/.vscode/extensions/redhat.java-1.38.0-linux-x64/lombok/lombok-1.18.34.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/miguel/.config/Code/User/workspaceStorage/b14edc98ed34e2be8fd1125abaf968b4/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/miguel/.vscode/extensions/redhat.java-1.38.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /home/miguel/.config/Code/User/globalStorage/redhat.java/1.38.0/config_linux -data /home/miguel/.config/Code/User/workspaceStorage/b14edc98ed34e2be8fd1125abaf968b4/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2025-01-02 13:28:16.290'
+}
+{
+  message: 'Jan 02, 2025 1:28:19 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n' +
+    'Jan 02, 2025 1:28:19 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2025-01-02 13:28:20.656'
+}
+{
+  message: '[Error - 1:28:25 PM] Jan 2, 2025, 1:28:25 PM Target is not a JDK root. System library was not found.',
+  level: 'info',
+  timestamp: '2025-01-02 13:28:25.876'
+}
+{
+  message: '[Error - 1:28:31 PM] Jan 2, 2025, 1:28:30 PM Target is not a JDK root. System library was not found.',
+  level: 'info',
+  timestamp: '2025-01-02 13:28:31.010'
+}
+{
+  message: '[Error - 1:28:53 PM] Jan 2, 2025, 1:28:53 PM Target is not a JDK root. System library was not found.',
+  level: 'info',
+  timestamp: '2025-01-02 13:28:53.014'
+}
+{
+  message: '[Error - 1:29:00 PM] Jan 2, 2025, 1:29:00 PM Error occured while building workspace. Details: \n' +
+    ' message: The project was not built since its build path is incomplete. Cannot find the class file for java.lang.Object. Fix the build path then try building this project; code: 0; resource: /home/miguel/Desktop/repositories/crud miguel spring;\n' +
+    ' message: The type java.lang.Object cannot be resolved. It is indirectly referenced from required .class files; code: 16777540; resource: /home/miguel/Desktop/repositories/crud miguel spring/src/test/java/com/libreria/crud/CrudApplicationTests.java; line: 1\n' +
+    ' message: The project was not built since its build path is incomplete. Cannot find the class file for java.lang.Object. Fix the build path then try building this project; code: 0; resource: /home/miguel/Desktop/repositories/crud spring layers miguel;\n' +
+    ' message: The type java.lang.Object cannot be resolved. It is indirectly referenced from required .class files; code: 16777540; resource: /home/miguel/Desktop/repositories/crud spring layers miguel/src/test/java/com/project/backend/CrudApplicationTests.java; line: 1',
+  level: 'info',
+  timestamp: '2025-01-02 13:29:00.051'
+}

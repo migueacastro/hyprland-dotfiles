@@ -1,0 +1,20 @@
+2025-01-22 23:00:57.364 [info] Experiment 'pythonaa' is active
+2025-01-22 23:00:57.364 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-22 23:00:57.364 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-22 23:00:57.364 [info] Experiment 'pythonTestAdapter' is active
+2025-01-22 23:00:57.364 [info] Native locator: Refresh started
+2025-01-22 23:00:57.364 [info] Native locator: Refresh started
+2025-01-22 23:00:58.151 [info] > pyenv which python
+2025-01-22 23:00:58.151 [info] cwd: .
+2025-01-22 23:00:58.212 [info] Python interpreter path: ./backend/.venv/bin/python
+2025-01-22 23:00:58.301 [info] > . ./backend/.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-22 23:00:58.301 [info] shell: bash
+2025-01-22 23:00:58.307 [info] Native locator: Refresh finished in 1250 ms
+2025-01-22 23:00:58.334 [info] > /usr/sbin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-22 23:00:58.334 [info] shell: bash
+2025-01-22 23:00:58.366 [info] Setting environment variable VIRTUAL_ENV in collection to /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-22 23:00:58.366 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to .venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-22 23:00:58.366 [info] Prepending environment variable PS1 in collection with .venv {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-01-22 23:00:58.366 [info] Prepending environment variable PATH in collection with /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash:/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-22 23:00:58.367 [info] Send text to terminal: /usr/sbin/python /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+2025-01-22 23:00:59.319 [info] Starting Pylance language server.

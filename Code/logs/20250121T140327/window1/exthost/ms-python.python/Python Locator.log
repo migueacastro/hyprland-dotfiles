@@ -1,0 +1,80 @@
+2025-01-21 16:46:29.146 [info] Starting Python Locator /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python-env-tools/bin/pet server
+2025-01-21 16:46:29.163 [info] Discovered env: /bin/python
+2025-01-21 16:46:29.168 [info] Discovered env: /usr/bin/python
+2025-01-21 16:46:29.171 [info] Discovered env: /bin/python3
+2025-01-21 16:46:29.178 [info] Discovered env: /usr/bin/python3
+2025-01-21 16:46:29.183 [info] Discovered env: /usr/bin/python3.13
+2025-01-21 16:46:29.190 [info] Discovered env: /bin/python3.13
+2025-01-21 16:46:29.215 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-01-21 16:46:29.215 [info] Discovered env: /usr/sbin/python
+2025-01-21 16:46:29.235 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-01-21 16:46:29.235 [info] Discovered env: /sbin/python
+2025-01-21 16:46:29.235 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-01-21 16:46:29.235 [info] Discovered env: /usr/sbin/python3
+2025-01-21 16:46:29.236 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-01-21 16:46:29.236 [info] Discovered env: /sbin/python3
+2025-01-21 16:46:29.237 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-01-21 16:46:29.237 [info] Discovered env: /usr/sbin/python3.13
+2025-01-21 16:46:29.238 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 16:46:29.241 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-01-21 16:46:29.241 [info] Discovered env: /sbin/python3.13
+2025-01-21 16:46:29.242 [info] Locator Conda took 748.137199ms
+2025-01-21 16:46:29.242 [info] Locator Homebrew took 85.408µs
+2025-01-21 16:46:29.243 [info] Locator LinuxGlobal took 489.029351ms
+2025-01-21 16:46:29.243 [info] Locator PipEnv took 12.558µs
+2025-01-21 16:46:29.243 [info] Locator Poetry took 2.910427ms
+2025-01-21 16:46:29.244 [info] Locator PyEnv took 5.493705ms
+2025-01-21 16:46:29.248 [info] Locator Venv took 46.005µs
+2025-01-21 16:46:29.252 [info] Locator VirtualEnv took 31.164µs
+2025-01-21 16:46:29.254 [info] Locator VirtualEnvWrapper took 33.231µs
+2025-01-21 16:46:29.254 [info] Locator GlobalVirtualEnvs took 106.841µs
+2025-01-21 16:46:29.260 [info] Locator Locators took 756.244572ms
+2025-01-21 16:46:29.261 [info] Locator Path took 834.95507ms
+2025-01-21 16:46:29.262 [info] Locator Workspaces took 30.481372ms
+2025-01-21 16:46:29.265 [info] Refresh completed in 838ms
+2025-01-21 16:46:29.274 [info] Resolved /bin/python
+2025-01-21 16:46:29.275 [info] Resolved /bin/python3
+2025-01-21 16:46:29.276 [info] Resolved /usr/bin/python3
+2025-01-21 16:46:29.277 [info] Resolved /usr/bin/python
+2025-01-21 16:46:29.278 [info] Resolved /usr/bin/python3.13
+2025-01-21 16:46:29.278 [info] Resolved /bin/python3.13
+2025-01-21 19:57:32.274 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:03:45.802 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:05:12.081 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:21:24.010 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:23:03.653 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:26:56.968 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:29:02.738 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:35:25.800 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:35:58.027 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 20:38:59.715 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:00:19.503 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:02:52.056 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:04:56.330 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:09:36.958 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:14:12.484 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:16:04.615 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:20:44.799 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:21:26.492 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:22:15.717 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:27:06.861 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:27:46.539 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:28:25.765 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:30:39.734 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:31:23.574 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:32:06.583 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:32:56.136 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:34:00.823 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:34:34.615 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:35:09.387 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:35:39.649 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:36:22.980 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:51:17.188 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:53:26.809 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:57:55.147 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 21:58:35.063 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 22:01:49.179 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 22:02:43.372 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 22:07:38.693 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 22:23:14.379 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-21 22:26:47.443 [info] Resolved Python Environment /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python

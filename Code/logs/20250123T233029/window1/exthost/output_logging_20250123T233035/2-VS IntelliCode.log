@@ -1,0 +1,3 @@
+Acquiring model 'intellisense-members' for javascript
+Found bundled model for javascript
+Error while activating Python: {"name":"Canceled","message":"Activating extension 'ms-python.vscode-pylance' failed: Canceled."}

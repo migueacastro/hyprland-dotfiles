@@ -1,0 +1,258 @@
+2025-01-21 14:03:31.365 [info] Extension host with pid 4739 started
+2025-01-21 14:03:31.365 [info] Skipping acquiring lock for /home/miguel/.config/Code/User/workspaceStorage/d9a73da03c4b8f701cbe6d0fe1404d45.
+2025-01-21 14:03:32.443 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-21 14:03:32.541 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-01-21 14:03:32.561 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-21 14:03:33.194 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-21 14:03:33.200 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2025-01-21 14:03:33.274 [info] ExtensionService#_doActivateExtension bysabi.prettier-vscode-standard, startup: true, activationEvent: '*'
+2025-01-21 14:03:33.369 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2025-01-21 14:03:33.472 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-01-21 14:03:33.957 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-21 14:03:34.067 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-21 14:03:34.240 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mssql, startup: true, activationEvent: '*'
+2025-01-21 14:03:34.250 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+2025-01-21 14:03:34.845 [info] Eager extensions activated
+2025-01-21 14:03:34.961 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:34.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:35.041 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:35.165 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:36.045 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:36.167 [info] ExtensionService#_doActivateExtension manishsencha.readme-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:37.018 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:37.101 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:37.281 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:37.295 [info] ExtensionService#_doActivateExtension rubberduck.rubberduck-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:37.405 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:03:37.815 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-21 14:03:38.283 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-21 14:03:38.303 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-21 14:03:38.395 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-21 14:03:42.368 [info] ExtensionService#_doActivateExtension tamasfe.even-better-toml, startup: false, activationEvent: 'onLanguage:toml'
+2025-01-21 14:03:50.669 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-21 14:03:50.784 [info] Extension host with pid 4739 exiting with code 0
+2025-01-21 14:03:54.147 [info] Extension host with pid 5069 started
+2025-01-21 14:03:54.147 [info] Skipping acquiring lock for /home/miguel/.config/Code/User/workspaceStorage/be59f81855ff1f1066db225f27745374.
+2025-01-21 14:03:54.661 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-21 14:03:54.751 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-01-21 14:03:54.759 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-21 14:03:54.791 [info] ExtensionService#_doActivateExtension RafaelMartinez.svelte-preview, startup: false, activationEvent: 'onLanguage:svelte'
+2025-01-21 14:03:55.520 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+2025-01-21 14:03:55.895 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-21 14:03:55.907 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2025-01-21 14:03:55.935 [info] ExtensionService#_doActivateExtension bysabi.prettier-vscode-standard, startup: true, activationEvent: '*'
+2025-01-21 14:03:55.957 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2025-01-21 14:03:56.061 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-01-21 14:03:56.755 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-21 14:03:56.904 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-21 14:03:57.069 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mssql, startup: true, activationEvent: '*'
+2025-01-21 14:03:57.082 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+2025-01-21 14:03:57.090 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onCommand:_typescript.configurePlugin'
+2025-01-21 14:03:58.400 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-21 14:04:01.435 [info] Eager extensions activated
+2025-01-21 14:04:01.439 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:01.442 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:01.469 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:01.533 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:02.486 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:02.610 [info] ExtensionService#_doActivateExtension manishsencha.readme-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:03.420 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:03.518 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:03.757 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:03.764 [info] ExtensionService#_doActivateExtension rubberduck.rubberduck-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:03.856 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 14:04:14.106 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:typescript'
+2025-01-21 14:04:14.395 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:typescript'
+2025-01-21 14:07:55.647 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-21 14:08:00.752 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-21 14:08:00.763 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-21 14:08:00.778 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-01-21 16:46:27.251 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: VisualStudioExptTeam.vscodeintellicode
+2025-01-21 16:46:29.367 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: VisualStudioExptTeam.vscodeintellicode
+2025-01-21 16:46:30.815 [info] ExtensionService#_doActivateExtension ms-python.black-formatter, startup: false, activationEvent: 'onLanguage:python'
+2025-01-21 16:46:30.906 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-21 20:02:30.936 [error] Error: Illegal value for `line`
+    at _M.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1814405)
+    at e.getNonCachedDocumentResults (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1816084)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817149)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802372)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1803714)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802801)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1808928)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809131)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809190
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809071)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817723)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760300)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760923)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759492)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759735)
+    at Immediate.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1757153)
+    at processImmediate (node:internal/timers:483:21)
+2025-01-21 20:03:36.208 [error] Error: Illegal value for `line`
+    at _M.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1814405)
+    at e.getNonCachedDocumentResults (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1816084)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817149)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802372)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1803714)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802801)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1808928)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809131)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809190
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809071)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817723)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760300)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760923)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759492)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759735)
+    at Immediate.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1757153)
+    at processImmediate (node:internal/timers:483:21)
+2025-01-21 20:16:00.743 [error] Error: Illegal value for `line`
+    at _M.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1814405)
+    at e.getNonCachedDocumentResults (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1816084)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817149)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802372)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1803714)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802801)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1808928)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809131)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809190
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809071)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817723)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760300)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760923)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759492)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759735)
+    at Immediate.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1757153)
+    at processImmediate (node:internal/timers:483:21)
+2025-01-21 20:16:01.339 [error] Error: Illegal value for `line`
+    at _M.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1814405)
+    at e.getNonCachedDocumentResults (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1816084)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817149)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802372)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1803714)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802801)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1808928)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809131)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809190
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809071)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817723)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760300)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760923)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759492)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759735)
+    at Immediate.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1757153)
+    at processImmediate (node:internal/timers:483:21)
+2025-01-21 21:58:49.653 [error] Error: Illegal value for `line`
+    at _M.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1814405)
+    at e.getNonCachedDocumentResults (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1816084)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817149)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802372)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1803714)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802801)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1808928)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809131)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809190
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809071)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817723)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760300)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1760923)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759492)
+    at d (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1747632)
+    at Generator.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748974)
+    at Generator.next (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1748061)
+    at s (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754548)
+    at a (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754751)
+    at /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754810
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1754691)
+    at e.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1759735)
+    at Immediate.<anonymous> (/home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1757153)
+    at processImmediate (node:internal/timers:483:21)

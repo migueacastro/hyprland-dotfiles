@@ -1,0 +1,678 @@
+Initialize language server at  file:///home/miguel/Desktop/repositories/dimpro-rest
+Initialize new ts service at  /home/miguel/Desktop/repositories/dimpro-rest/frontend/tsconfig.json
+Trying to load configs for /home/miguel/Desktop/repositories/dimpro-rest/frontend
+Loaded config at  /home/miguel/Desktop/repositories/dimpro-rest/frontend/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 0
+Total: 28
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:15:26: ERROR: Expected ";" but found ")"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ";" but found ")"\n' +
+    '13 |      const modalStore = getModalStore();\n' +
+    '14 |      onMount(async () => {\n' +
+    '15 |          await authenticate)\n' +
+    '   |                            ^\n' +
+    '16 |          if (!user) {\n' +
+    '17 |              \n',
+  loc: {
+    column: 26,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 15,
+    lineText: '        await authenticate)',
+    namespace: '',
+    suggestion: ';'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:15:28: ERROR: Expected ";" but found ")"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ";" but found ")"\n' +
+    '13 |      const modalStore = getModalStore();\n' +
+    '14 |      onMount(async () => {\n' +
+    '15 |          await authenticate())\n' +
+    '   |                              ^\n' +
+    '16 |          if (!user) {\n' +
+    '17 |              \n',
+  loc: {
+    column: 28,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 15,
+    lineText: '        await authenticate())',
+    namespace: '',
+    suggestion: ';'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:12:10: ERROR: The constant "draewr" must be initialized
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'The constant "draewr" must be initialized\n' +
+    '10 |  \timport { goto } from "$app/navigation";\n' +
+    '11 |      let expandedDrawer = false;\n' +
+    '12 |      const draewr\n' +
+    '   |            ^\n' +
+    '13 |      \n' +
+    '14 |      const modalStore = getModalStore();\n',
+  loc: {
+    column: 10,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 6,
+    line: 12,
+    lineText: '    const draewr',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:16:10: ERROR: The constant "hideDrawer" must be initialized
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'The constant "hideDrawer" must be initialized\n' +
+    '14 |      const modalStore = getModalStore();\n' +
+    '15 |  \n' +
+    '16 |      const hideDrawer\n' +
+    '   |            ^\n' +
+    '17 |      onMount(async () => {\n' +
+    '18 |          await authenticate();\n',
+  loc: {
+    column: 10,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 10,
+    line: 16,
+    lineText: '    const hideDrawer',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:17:4: ERROR: Expected "=>" but found "onMount"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected "=>" but found "onMount"\n' +
+    '15 |  \n' +
+    '16 |      const hideDrawer = ()\n' +
+    '17 |      onMount(async () => {\n' +
+    '   |      ^\n' +
+    '18 |          await authenticate();\n' +
+    '19 |          if (!user) {\n',
+  loc: {
+    column: 4,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 7,
+    line: 17,
+    lineText: '    onMount(async () => {',
+    namespace: '',
+    suggestion: '=>'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:17:18: ERROR: Expected ")" but found "("
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ")" but found "("\n' +
+    '15 |  \n' +
+    '16 |      function \n' +
+    '17 |      onMount(async () => {\n' +
+    '   |                    ^\n' +
+    '18 |          await authenticate();\n' +
+    '19 |          if (!user) {\n',
+  loc: {
+    column: 18,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 17,
+    lineText: '    onMount(async () => {',
+    namespace: '',
+    suggestion: ')'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:16:24: ERROR: Expected "(" but found "="
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected "(" but found "="\n' +
+    '14 |      const modalStore = getModalStore();\n' +
+    '15 |  \n' +
+    '16 |      function hideDrawer = \n' +
+    '   |                          ^\n' +
+    '17 |      onMount(async () => {\n' +
+    '18 |          await authenticate();\n',
+  loc: {
+    column: 24,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 16,
+    lineText: '    function hideDrawer = ',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:17:4: ERROR: Expected "(" but found "onMount"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected "(" but found "onMount"\n' +
+    '15 |  \n' +
+    '16 |      function hideDrawer \n' +
+    '17 |      onMount(async () => {\n' +
+    '   |      ^\n' +
+    '18 |          await authenticate();\n' +
+    '19 |          if (!user) {\n',
+  loc: {
+    column: 4,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 7,
+    line: 17,
+    lineText: '    onMount(async () => {',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+Reloading ts service at  /home/miguel/Desktop/repositories/dimpro-rest/frontend/tsconfig.json  due to config updated
+Trying to load configs for /home/miguel/Desktop/repositories/dimpro-rest/frontend
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 312
+Total: 340
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:23:13: ERROR: Syntax error ")"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Syntax error ")"\n' +
+    '21 |      onMount(async () => {\n' +
+    '22 |          await authenticate();\n' +
+    '23 |          if (#) {\n' +
+    '   |               ^\n' +
+    '24 |              \n' +
+    '25 |              await goto("/");\n',
+  loc: {
+    column: 13,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 0,
+    line: 23,
+    lineText: '        if (#) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:23:21: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    '21 |      onMount(async () => {\n' +
+    '22 |          await authenticate();\n' +
+    '23 |          if ($user == ) {\n' +
+    '   |                       ^\n' +
+    '24 |              \n' +
+    '25 |              await goto("/");\n',
+  loc: {
+    column: 21,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 23,
+    lineText: '        if ($user == ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:13:58: ERROR: Expected ":" but found "}"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ":" but found "}"\n' +
+    '11 |      let expandedDrawer = false;\n' +
+    '12 |      const drawerStore = getDrawerStore();\n' +
+    "13 |      const layoutDrawerSettings = {'id': 'layoutDrawer', ''} // Settings for oppening drawer\n" +
+    '   |                                                            ^\n' +
+    '14 |      \n' +
+    '15 |      const modalStore = getModalStore();\n',
+  loc: {
+    column: 58,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: "    const layoutDrawerSettings = {'id': 'layoutDrawer', ''} // Settings for oppening drawer",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:13:58: ERROR: Expected ":" but found "}"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ":" but found "}"\n' +
+    '11 |      let expandedDrawer = false;\n' +
+    '12 |      const drawerStore = getDrawerStore();\n' +
+    "13 |      const layoutDrawerSettings = {'id': 'layoutDrawer', ''} // Settings for oppening drawer\n" +
+    '   |                                                            ^\n' +
+    '14 |      \n' +
+    '15 |      const modalStore = getModalStore();\n',
+  loc: {
+    column: 58,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: "    const layoutDrawerSettings = {'id': 'layoutDrawer', ''} // Settings for oppening drawer",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:13:62: ERROR: Expected ":" but found "}"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ":" but found "}"\n' +
+    '11 |      let expandedDrawer = false;\n' +
+    '12 |      const drawerStore = getDrawerStore();\n' +
+    "13 |      const layoutDrawerSettings = {'id': 'layoutDrawer', 'bgDr'} // Settings for oppening drawer\n" +
+    '   |                                                                ^\n' +
+    '14 |      \n' +
+    '15 |      const modalStore = getModalStore();\n',
+  loc: {
+    column: 62,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: "    const layoutDrawerSettings = {'id': 'layoutDrawer', 'bgDr'} // Settings for oppening drawer",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:13:66: ERROR: Expected ":" but found "}"
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Expected ":" but found "}"\n' +
+    '11 |      let expandedDrawer = false;\n' +
+    '12 |      const drawerStore = getDrawerStore();\n' +
+    "13 |      const layoutDrawerSettings = {'id': 'layoutDrawer', 'bgDrawer'} // Settings for oppening drawer\n" +
+    '   |                                                                    ^\n' +
+    '14 |      \n' +
+    '15 |      const modalStore = getModalStore();\n',
+  loc: {
+    column: 66,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: "    const layoutDrawerSettings = {'id': 'layoutDrawer', 'bgDrawer'} // Settings for oppening drawer",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+Reloading ts service at  /home/miguel/Desktop/repositories/dimpro-rest/frontend/tsconfig.json  due to config updated
+Trying to load configs for /home/miguel/Desktop/repositories/dimpro-rest/frontend
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 0
+Total: 28
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 312
+Total: 340
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte:17:29: ERROR: Syntax error " "
+    at failureErrorWithLog (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter],
+  frame: '\n' +
+    'Syntax error " "\n' +
+    '15 |      const modalStore = getModalStore();\n' +
+    '16 |  \n' +
+    '17 |      function hideDrawer() { # \n' +
+    '   |                               ^\n' +
+    '18 |          expandedDrawer = false;\n' +
+    '19 |          setTimeout(drawerStore.close, 100);\n',
+  loc: {
+    column: 29,
+    file: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+    length: 0,
+    line: 17,
+    lineText: '    function hideDrawer() { # ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 355
+Total: 383

@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="7" y="214" key="SettingsEditor" timestamp="1735785662084">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="7" y="214" key="SettingsEditor/0.0.1920.1080/1920.0.1680.1050" timestamp="1735785662084" />
+        <state x="82" y="226" width="800" height="677" key="new project wizard" timestamp="1735785670237">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="82" y="226" width="800" height="677" key="new project wizard/0.0.1920.1080/1920.0.1680.1050" timestamp="1735785670237" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

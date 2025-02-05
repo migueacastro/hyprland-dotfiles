@@ -1,0 +1,9 @@
+Initialize language server at  file:///home/miguel/Desktop/repositories/dimpro-rest
+Initialize new ts service at  /home/miguel/Desktop/repositories/dimpro-rest/frontend/tsconfig.json
+Trying to load configs for /home/miguel/Desktop/repositories/dimpro-rest/frontend
+Loaded config at  /home/miguel/Desktop/repositories/dimpro-rest/frontend/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 10
+From node_modules: 0
+Total: 28

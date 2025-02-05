@@ -1,0 +1,34 @@
+2025-01-25 01:42:44.521 [info] [main] Log level: Info
+2025-01-25 01:42:44.521 [info] [main] Validating found git in: "git"
+2025-01-25 01:42:44.521 [info] [main] Using git "2.48.1" from "git"
+2025-01-25 01:42:44.521 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-25 01:42:44.521 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-25 01:42:44.521 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-01-25 01:42:44.521 [info] [Model][openRepository] Opened repository: /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-25 01:42:44.521 [info] > git rev-parse --show-toplevel [19ms]
+2025-01-25 01:42:44.521 [info] > git config --get commit.template [69ms]
+2025-01-25 01:42:44.521 [info] > git rev-parse --show-toplevel [37ms]
+2025-01-25 01:42:44.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [38ms]
+2025-01-25 01:42:44.521 [info] > git rev-parse --show-toplevel [12ms]
+2025-01-25 01:42:44.521 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-25 01:42:44.521 [info] > git status -z -uall [42ms]
+2025-01-25 01:42:44.521 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2025-01-25 01:42:44.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [44ms]
+2025-01-25 01:42:44.521 [info] > git config --get commit.template [17ms]
+2025-01-25 01:42:44.521 [info] > git config --local branch.cambios-miguel.vscode-merge-base [23ms]
+2025-01-25 01:42:44.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [27ms]
+2025-01-25 01:42:44.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/cambios-miguel refs/remotes/origin/cambios-miguel [6ms]
+2025-01-25 01:42:44.535 [info] > git merge-base refs/heads/cambios-miguel refs/remotes/origin/cambios-miguel [39ms]
+2025-01-25 01:42:44.599 [info] > git diff --name-status -z --diff-filter=ADMR 369b2936c7d1c308b9d961961189c44a03139ce7...refs/remotes/origin/cambios-miguel [16ms]
+2025-01-25 01:42:44.673 [info] > git status -z -uall [40ms]
+2025-01-25 01:42:44.717 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2025-01-25 01:42:47.119 [info] > git check-ignore -v -z --stdin [79ms]
+2025-01-25 01:42:47.518 [info] > git show --textconv :frontend/src/lib/api_url.ts [302ms]
+2025-01-25 01:42:47.521 [info] > git ls-files --stage -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [235ms]
+2025-01-25 01:42:48.293 [info] > git cat-file -s 750f02ebd17834f24728135307a0ca0b42e2ab18 [725ms]
+2025-01-25 01:42:48.786 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n126 --follow -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [577ms]
+2025-01-25 01:42:51.811 [info] > git blame --root --incremental 802246bfb3445a2aace1f63d5c78436eb5684cf7 -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [206ms]
+2025-01-25 01:42:52.329 [info] > git config --get commit.template [145ms]
+2025-01-25 01:42:52.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [27ms]
+2025-01-25 01:42:52.622 [info] > git status -z -uall [51ms]
+2025-01-25 01:42:52.627 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]

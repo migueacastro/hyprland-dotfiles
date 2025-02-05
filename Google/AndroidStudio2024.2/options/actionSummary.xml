@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="About">
+      <i c="1" l="1736403576832" />
+    </e>
+    <e n="Android.AdbDevicePairing">
+      <i c="2" d="2" l="1736439165102" k="1736439165102" />
+    </e>
+    <e n="AndroidConnectDebuggerAction">
+      <i c="1" l="1736438860175" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1736437607968" />
+    </e>
+    <e n="EditCustomProperties">
+      <i c="1" l="1736403403886" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8" l="1736403664063" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1736403726553" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1736438849199" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1736439162418" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1736439442068" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1736439445694" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1736438808726" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1736437621747" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager2">
+      <i c="5" l="1736438745071" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="4" l="1736438784879" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1736438778887" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1736438873969" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1736437603452" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="4" l="1736403572216" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1736438849881" />
+    </e>
+    <e n="flutter.NewProject.welcome">
+      <i c="2" l="1736438805438" />
+    </e>
+  </component>
+</application>

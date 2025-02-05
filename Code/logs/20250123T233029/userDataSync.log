@@ -1,0 +1,25 @@
+2025-01-23 23:30:33.756 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-23 23:30:33.760 [info] Auto Sync is enabled.
+2025-01-23 23:30:33.760 [info] Auto Sync: Suspended until auth token is available.
+2025-01-23 23:30:46.224 [info] Auto Sync: Triggered by Interval
+2025-01-23 23:30:46.225 [info] Sync started.
+2025-01-23 23:30:48.496 [info] Settings: No changes found during synchronizing settings.
+2025-01-23 23:30:48.680 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-23 23:30:48.726 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-23 23:30:48.778 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-23 23:30:49.527 [info] GlobalState: Updated remote ui state. Updated: cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2025-01-23 23:30:49.564 [info] GlobalState: Updated last synchronized ui state
+2025-01-23 23:30:50.143 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-23 23:30:50.153 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-23 23:30:50.165 [info] Sync done. Took 3964ms
+2025-01-23 23:30:59.403 [info] Auto Sync: Triggered by Activity
+2025-01-23 23:30:59.404 [info] Sync started.
+2025-01-23 23:30:59.826 [info] Settings: No changes found during synchronizing settings.
+2025-01-23 23:30:59.886 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-23 23:30:59.919 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-23 23:30:59.934 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-23 23:30:59.947 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-23 23:31:00.587 [info] Extensions: Updated remote extensions. Removed: ["codeium.codeium"].
+2025-01-23 23:31:00.595 [info] Extensions: Updated last synchronized extensions. Skipped: ["zhang-renyang.vscode-react"].
+2025-01-23 23:31:00.609 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-23 23:31:00.635 [info] Sync done. Took 1216ms

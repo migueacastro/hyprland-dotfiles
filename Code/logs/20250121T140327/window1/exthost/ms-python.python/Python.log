@@ -1,0 +1,74 @@
+2025-01-21 16:46:29.146 [info] Experiment 'pythonaa' is active
+2025-01-21 16:46:29.146 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-21 16:46:29.146 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-21 16:46:29.146 [info] Experiment 'pythonTestAdapter' is active
+2025-01-21 16:46:29.146 [info] Native locator: Refresh started
+2025-01-21 16:46:29.146 [info] Native locator: Refresh started
+2025-01-21 16:46:29.240 [info] Python interpreter path: ./backend/.venv/bin/python
+2025-01-21 16:46:29.290 [info] Native locator: Refresh finished in 1144 ms
+2025-01-21 16:46:29.359 [info] > pyenv which python
+2025-01-21 16:46:29.359 [info] cwd: .
+2025-01-21 16:46:31.528 [info] > . ./backend/.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-21 16:46:31.528 [info] shell: bash
+2025-01-21 16:46:31.610 [info] > /usr/sbin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-21 16:46:31.610 [info] shell: bash
+2025-01-21 16:46:31.677 [info] Setting environment variable VIRTUAL_ENV in collection to /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-21 16:46:31.677 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to .venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-21 16:46:31.677 [info] Prepending environment variable PS1 in collection with .venv {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-01-21 16:46:31.677 [info] Prepending environment variable PATH in collection with /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash:/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-21 16:46:31.679 [info] Send text to terminal: /usr/sbin/python /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/miguel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+2025-01-21 16:46:33.408 [info] Starting Pylance language server.
+2025-01-21 19:52:12.964 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 19:52:13.936 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:02:23.146 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:02:33.212 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:02:59.308 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:03:21.112 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:03:40.593 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:04:20.768 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:04:41.717 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:05:10.454 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:15:57.622 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:16:01.767 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:20:22.030 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:21:19.667 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:23:18.080 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 20:23:19.739 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:26:30.854 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:27:06.466 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 20:27:30.184 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:36:11.748 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 20:38:58.474 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 20:39:00.679 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 20:39:58.588 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 20:42:18.229 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 20:47:10.659 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:05:09.989 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 21:05:30.273 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 21:08:46.135 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 21:14:09.003 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:16:03.938 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 21:18:27.650 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:21:25.431 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py
+2025-01-21 21:22:13.316 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:24:55.819 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 21:25:48.658 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 21:27:02.981 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 21:27:06.170 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 21:27:36.381 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py
+2025-01-21 21:34:33.864 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:34:36.133 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py
+2025-01-21 21:43:45.712 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:48:15.415 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:51:15.312 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:51:18.795 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 21:53:37.585 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:57:54.088 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 21:58:34.345 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py
+2025-01-21 21:59:23.071 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 22:01:16.051 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 22:01:32.884 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 22:02:13.861 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/serializers.py
+2025-01-21 22:03:28.775 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/views.py
+2025-01-21 22:08:56.265 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py
+2025-01-21 22:23:40.350 [info] Discover tests for workspace name: dimpro-rest - uri: /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/helpers.py

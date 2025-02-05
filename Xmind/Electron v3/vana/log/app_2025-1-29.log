@@ -1,0 +1,84 @@
+
+-------- SESSION 2025-01-30T03:15:30.742Z (24.10.01101+202410201932, linux, x64, 20506894336, XMIND LTD., vana_linux) --------
+[I 2025-01-30T03:15:30.835Z main:store:plugins:electron] current pid is "50017"
+[I 2025-01-30T03:15:30.845Z usage-stats] sync data
+[I 2025-01-30T03:15:31.133Z auto-updater] current version is "24.10.1101"
+[I 2025-01-30T03:15:32.431Z main:store:plugins:electron] Application will finish launching.
+[I 2025-01-30T03:15:32.455Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2025-01-30T03:15:32.491Z main:store:plugins:electron] Application is ready.
+[I 2025-01-30T03:15:33.430Z main:store:plugins:electron] Device ID: da9137d0-faff-406f-ac75-bded094d547f
+[I 2025-01-30T03:16:01.182Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/Xmind/xmind","--allow-file-access-from-files","xmind-zen://login/google?session_id=npLKXUBEYUaJWxrsmQCvMiSVEsgj"] /home/miguel
+[I 2025-01-30T03:16:10.198Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/Xmind/xmind","--allow-file-access-from-files","xmind-zen://login/google?session_id=npLKXUBEYUaJWxrsmQCvMiSVEsgj"] /home/miguel
+[I 2025-01-30T03:16:20.648Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/Xmind/xmind","--allow-file-access-from-files","xmind-zen://login/google?session_id=npLKXUBEYUaJWxrsmQCvMiSVEsgj"] /home/miguel
+[I 2025-01-30T03:16:49.479Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/Xmind/xmind","--allow-file-access-from-files","xmind-zen://login/google?session_id=oSCmbLmHgJxdZRImgmdjwLRlQxvh"] /home/miguel
+[I 2025-01-30T03:17:05.347Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/Xmind/xmind","--allow-file-access-from-files","xmind-zen://login/google?session_id=oSCmbLmHgJxdZRImgmdjwLRlQxvh"] /home/miguel
+[I 2025-01-30T03:19:00.893Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2025-01-30T03:19:00.897Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2025-01-30T03:19:00.898Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2025-01-30T03:19:00.898Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2025-01-30T03:19:00.898Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2025-01-30T03:19:00.927Z firefly-client] [STARTED] POST https://xmind.ai/api/session/login-by-token
+[I 2025-01-30T03:19:00.955Z main:store:plugins:open-handler] Open: xmind-zen://login/google?session_id=npLKXUBEYUaJWxrsmQCvMiSVEsgj
+[I 2025-01-30T03:19:00.956Z main:store:plugins:open-handler] Open: xmind-zen://login/google?session_id=oSCmbLmHgJxdZRImgmdjwLRlQxvh
+[I 2025-01-30T03:19:01.118Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2025-01-30T03:19:01.118Z main:store:plugins:electron] Application is intended to quit.
+[I 2025-01-30T03:19:01.119Z main:store:plugins:electron] Application status is quitting:  false
+[I 2025-01-30T03:19:01.119Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2025-01-30T03:19:01.120Z main:store:plugins:electron] All documents are closed.
+[I 2025-01-30T03:19:01.123Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2025-01-30T03:19:01.124Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2025-01-30T03:19:01.129Z main:store:plugins:electron] Application is intended to quit.
+[I 2025-01-30T03:19:01.129Z main:store:plugins:electron] Application status is quitting:  true
+[I 2025-01-30T03:19:01.130Z main:store:plugins:electron] Application will quit.
+[I 2025-01-30T03:19:01.130Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2025-01-30T03:19:31.279Z (24.10.01101+202410201932, linux, x64, 20506894336, XMIND LTD., vana_linux) --------
+[I 2025-01-30T03:19:31.341Z main:store:plugins:electron] current pid is "51632"
+[I 2025-01-30T03:19:31.356Z usage-stats] sync data
+[I 2025-01-30T03:19:31.532Z auto-updater] current version is "24.10.1101"
+[I 2025-01-30T03:19:32.375Z main:store:plugins:electron] Application will finish launching.
+[I 2025-01-30T03:19:32.388Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2025-01-30T03:19:32.405Z main:store:plugins:electron] Application is ready.
+[I 2025-01-30T03:19:32.511Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2025-01-30T03:19:32.515Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2025-01-30T03:19:32.516Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2025-01-30T03:19:32.516Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2025-01-30T03:19:32.517Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2025-01-30T03:19:32.524Z firefly-client] [STARTED] POST https://xmind.ai/api/session/login-by-token
+[I 2025-01-30T03:19:32.825Z main:store:plugins:electron] Device ID: da9137d0-faff-406f-ac75-bded094d547f
+[I 2025-01-30T03:19:33.164Z firefly-client] [DONE] POST https://xmind.ai/api/session/login-by-token 200
+[I 2025-01-30T03:19:33.176Z firefly-client] [STARTED] GET https://xmind.ai/api/drive/recent-files-records
+[I 2025-01-30T03:19:33.655Z firefly-client] [DONE] GET https://xmind.ai/api/drive/recent-files-records 200
+[I 2025-01-30T03:19:35.414Z firefly-client] [STARTED] POST https://xmind.ai/api/session
+[I 2025-01-30T03:19:35.925Z firefly-client] [DONE] POST https://xmind.ai/api/session 200
+[I 2025-01-30T03:19:35.934Z firefly-client] [STARTED] GET https://xmind.ai/api/drive/recent-files-records
+[E 2025-01-30T03:19:36.280Z firefly-client] [FAILED] GET https://xmind.ai/api/drive/recent-files-records 502 <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+
+[E 2025-01-30T03:19:36.306Z launch-window-recent] Failed to get recent files
+[I 2025-01-30T03:19:36.321Z firefly-client] [STARTED] POST https://xmind.ai/api/session
+[I 2025-01-30T03:19:36.448Z firefly-client] [DONE] POST https://xmind.ai/api/session 200
+[I 2025-01-30T03:19:36.452Z firefly-client] [STARTED] POST https://xmind.ai/api/drive/team/joined
+[I 2025-01-30T03:19:36.455Z firefly-client] [STARTED] POST https://xmind.ai/api/session
+[I 2025-01-30T03:19:36.590Z firefly-client] [DONE] POST https://xmind.ai/api/session 200
+[I 2025-01-30T03:19:36.593Z firefly-client] [STARTED] GET https://xmind.ai/api/drive/recent-files-records
+[I 2025-01-30T03:19:36.629Z firefly-client] [DONE] POST https://xmind.ai/api/drive/team/joined 200
+[E 2025-01-30T03:19:36.647Z firefly-client] [FAILED] GET https://xmind.ai/api/drive/recent-files-records 502 <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+
+[E 2025-01-30T03:19:36.648Z launch-window-recent] Failed to get recent files
+[I 2025-01-30T03:19:47.117Z fonts] App Locale: en
+[I 2025-01-30T03:19:47.118Z fonts] start get system fonts
+[I 2025-01-30T03:19:47.433Z fonts] Consuming 315 ms to get system fonts
+[I 2025-01-30T03:19:47.453Z fonts] App Locale: en
+[I 2025-01-30T03:19:47.454Z fonts] App Locale: en
+[I 2025-01-30T03:20:32.518Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T03:20:33.450Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

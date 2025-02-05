@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/StudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application – ~/StudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" opened="true" projectWorkspaceId="2rOn6fsDvwRkPhnzbH0CXR092tD">
+              <option name="activationTimestamp" value="1736439822708" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="14" y="67" width="1892" height="999" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1736438815934" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/StudioProjects/MyApplication" />
+    <option name="lastProjectLocation" value="$USER_HOME$/StudioProjects" />
+  </component>
+</application>

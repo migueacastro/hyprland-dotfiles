@@ -1,0 +1,51 @@
+2025-01-21 01:31:25.730 [info] [main] Log level: Info
+2025-01-21 01:31:25.730 [info] [main] Validating found git in: "git"
+2025-01-21 01:31:25.730 [info] [main] Using git "2.48.1" from "git"
+2025-01-21 01:31:25.730 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-21 01:31:25.730 [info] > git rev-parse --show-toplevel [88ms]
+2025-01-21 01:31:25.730 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2025-01-21 01:31:25.730 [info] [Model][openRepository] Opened repository: /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-21 01:31:25.741 [info] > git rev-parse --show-toplevel [46ms]
+2025-01-21 01:31:25.746 [info] > git config --get commit.template [59ms]
+2025-01-21 01:31:26.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [150ms]
+2025-01-21 01:31:26.087 [info] > git rev-parse --show-toplevel [162ms]
+2025-01-21 01:31:26.124 [info] > git rev-parse --show-toplevel [28ms]
+2025-01-21 01:31:26.129 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-21 01:31:26.188 [info] > git show --textconv :frontend/src/routes/(auth)/login/user/+page.svelte [41ms]
+2025-01-21 01:31:26.189 [info] > git ls-files --stage -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(auth)/login/user/+page.svelte [23ms]
+2025-01-21 01:31:26.280 [info] > git status -z -uall [22ms]
+2025-01-21 01:31:26.283 [info] > git cat-file -s d1ba65e1cc7fc84d29995ea5db64b8ee673f7286 [75ms]
+2025-01-21 01:31:26.334 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [59ms]
+2025-01-21 01:31:26.540 [info] > git check-ignore -v -z --stdin [236ms]
+2025-01-21 01:31:26.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [168ms]
+2025-01-21 01:31:26.580 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(auth)/login/user/+page.svelte [393ms]
+2025-01-21 01:31:27.040 [info] > git config --local branch.cambios-miguel.vscode-merge-base [463ms]
+2025-01-21 01:31:27.072 [info] > git config --get commit.template [572ms]
+2025-01-21 01:31:27.078 [info] > git blame --root --incremental 18f9b9d5b03a20f53347aaccecd1aae7d02a4459 -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(auth)/login/user/+page.svelte [630ms]
+2025-01-21 01:31:27.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/cambios-miguel refs/remotes/origin/cambios-miguel [138ms]
+2025-01-21 01:31:27.266 [info] > git merge-base refs/heads/cambios-miguel refs/remotes/origin/cambios-miguel [46ms]
+2025-01-21 01:31:27.384 [info] > git diff --name-status -z --diff-filter=ADMR 18f9b9d5b03a20f53347aaccecd1aae7d02a4459...refs/remotes/origin/cambios-miguel [109ms]
+2025-01-21 01:31:27.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [124ms]
+2025-01-21 01:31:28.161 [info] > git status -z -uall [161ms]
+2025-01-21 01:31:28.165 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [124ms]
+2025-01-21 01:31:36.475 [info] [main] Log level: Info
+2025-01-21 01:31:36.475 [info] [main] Validating found git in: "git"
+2025-01-21 01:31:36.475 [info] [main] Using git "2.48.1" from "git"
+2025-01-21 01:31:36.475 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-21 01:31:36.475 [info] > git rev-parse --show-toplevel [21ms]
+2025-01-21 01:31:36.475 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:31:36.481 [info] > git rev-parse --show-toplevel [33ms]
+2025-01-21 01:31:36.481 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:31:36.489 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-21 01:31:41.475 [info] > git rev-parse --show-toplevel [181ms]
+2025-01-21 01:31:41.475 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:31:41.608 [info] > git rev-parse --show-toplevel [80ms]
+2025-01-21 01:31:41.608 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:31:41.629 [info] > git rev-parse --show-toplevel [11ms]
+2025-01-21 01:31:41.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:31:50.951 [info] > git rev-parse --show-toplevel [64ms]
+2025-01-21 01:31:50.951 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:32:07.020 [info] > git rev-parse --show-toplevel [14ms]
+2025-01-21 01:32:07.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 01:32:17.207 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-21 01:32:17.207 [info] fatal: not a git repository (or any of the parent directories): .git

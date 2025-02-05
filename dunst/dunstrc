@@ -32,7 +32,7 @@
     ### Text ###
     
     # Set font of notifications
-    font = Cousine Nerd Font Mon 13
+    font = JetBrainsMono 13
     # Spacing between lines 
     line-height = 0
     # Markup parsing

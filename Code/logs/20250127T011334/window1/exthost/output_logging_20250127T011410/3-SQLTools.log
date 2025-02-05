@@ -1,0 +1,98 @@
+[1737954853656] INFO  (ext): SQLTools is starting
+[1737954853658] INFO  (ext): initializing language client...
+[1737954853660] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1737954853667] INFO  (ext): loading plugins...
+[1737954853667] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1737954853668] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1737954853669] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1737954853670] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1737954853674] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1737954853675] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1737954853675] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1737954853677] INFO  (ext): registering Authentication Provider Plugin.
+    plugin: {
+      "name": "Authentication Provider Plugin",
+      "isRegistered": false
+    }
+[1737954853677] INFO  (ext): registering Object Drop-in Provider (plugin).
+    plugin: {
+      "type": "plugin",
+      "name": "Object Drop-in Provider",
+      "isRegistered": false
+    }
+[1737954853678] INFO  (ext): SQLTools activation completed. 22.53025 ms
+[1737954853678] INFO  (ext): Formatter Plugin registered!
+[1737954853678] INFO  (ext): CodeLens Plugin registered!
+[1737954853678] INFO  (ext): Dependency Manager Plugin registered!
+[1737954853679] INFO  (ext): Connection Manager Plugin registered!
+[1737954853679] INFO  (ext): History Manager Plugin registered!
+[1737954853679] INFO  (ext): Bookmarks Manager Plugin registered!
+[1737954853679] INFO  (ext): Authentication Provider Plugin registered!
+[1737954853679] INFO  (ext): Object Drop-in Provider (plugin) registered!
+[1737954853759] INFO  (ext): registering SQL Server/Azure Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-mssql",
+      "name": "SQL Server/Azure Plugin",
+      "type": "driver"
+    }
+[1737954853759] INFO  (ext): registering MySQL/MariaDB/TiDB Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-mysql",
+      "name": "MySQL/MariaDB/TiDB Plugin",
+      "type": "driver"
+    }
+[1737954853893] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: no
+ExecPath: /opt/visual-studio-code/code 
+===============================
+[1737954853925] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1737954853923] INFO  (ls): Initialized with node version:v20.18.1
+[1737954853927] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1737954853928] INFO  (ls): request to register plugin: "/home/miguel/.vscode/extensions/mtxr.sqltools-driver-mssql-0.4.3/out/ls/plugin.js"
+[1737954854146] INFO  (ls): Driver mssql registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1737954854150] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1737954854150] INFO  (ls): request to register plugin: "/home/miguel/.vscode/extensions/mtxr.sqltools-driver-mysql-0.6.3/out/ls/plugin.js"
+[1737954854171] INFO  (ext): SQL Server/Azure Plugin (driver) registered!
+[1737954854278] INFO  (ls): Driver mysql registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1737954854278] INFO  (ls): Driver mariadb registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1737954854278] INFO  (ls): Driver tidb registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1737954854279] INFO  (ext): MySQL/MariaDB/TiDB Plugin (driver) registered!
+[1737954854670] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1737954855281] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1737954855282] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1737954855675] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

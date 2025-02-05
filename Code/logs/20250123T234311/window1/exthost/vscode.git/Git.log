@@ -1,0 +1,30 @@
+2025-01-23 23:43:21.594 [info] [main] Log level: Info
+2025-01-23 23:43:21.594 [info] [main] Validating found git in: "git"
+2025-01-23 23:43:21.595 [info] [main] Using git "2.48.1" from "git"
+2025-01-23 23:43:21.595 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-23 23:43:21.595 [info] > git rev-parse --show-toplevel [478ms]
+2025-01-23 23:43:21.595 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2025-01-23 23:43:21.595 [info] [Model][openRepository] Opened repository: /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-23 23:43:21.650 [info] > git rev-parse --show-toplevel [976ms]
+2025-01-23 23:43:21.651 [info] > git config --get commit.template [992ms]
+2025-01-23 23:43:22.103 [info] > git rev-parse --show-toplevel [338ms]
+2025-01-23 23:43:22.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-joel refs/remotes/cambios-joel [154ms]
+2025-01-23 23:43:22.569 [info] > git rev-parse --show-toplevel [367ms]
+2025-01-23 23:43:22.582 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-23 23:43:22.699 [info] > git check-ignore -v -z --stdin [78ms]
+2025-01-23 23:43:23.002 [info] > git show --textconv :frontend/src/lib/api_url.ts [79ms]
+2025-01-23 23:43:23.003 [info] > git ls-files --stage -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [63ms]
+2025-01-23 23:43:23.059 [info] > git status -z -uall [27ms]
+2025-01-23 23:43:23.060 [info] > git cat-file -s f837fd2c2c9a64badf9e65566e3db6239c16cebf [46ms]
+2025-01-23 23:43:23.101 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [46ms]
+2025-01-23 23:43:23.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-joel refs/remotes/cambios-joel [90ms]
+2025-01-23 23:43:23.363 [info] > git config --local branch.cambios-joel.vscode-merge-base [101ms]
+2025-01-23 23:43:23.396 [info] > git config --get commit.template [169ms]
+2025-01-23 23:43:23.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/cambios-joel refs/remotes/origin/cambios-joel [221ms]
+2025-01-23 23:43:23.647 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n126 --follow -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [456ms]
+2025-01-23 23:43:23.795 [info] > git merge-base refs/heads/cambios-joel refs/remotes/origin/cambios-joel [153ms]
+2025-01-23 23:43:23.820 [info] > git blame --root --incremental 24a605247bcec9be5c92454ff0da7615e0c14d57 -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [344ms]
+2025-01-23 23:43:23.844 [info] > git diff --name-status -z --diff-filter=ADMR 24a605247bcec9be5c92454ff0da7615e0c14d57...refs/remotes/origin/cambios-joel [25ms]
+2025-01-23 23:43:23.846 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-joel refs/remotes/cambios-joel [55ms]
+2025-01-23 23:43:24.015 [info] > git status -z -uall [32ms]
+2025-01-23 23:43:24.038 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]

@@ -1,0 +1,20 @@
+[I 2025-01-31T04:57:37.280Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T04:57:48.664Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T05:08:21.584Z firefly-client] [STARTED] POST https://xmind.ai/api/session
+[I 2025-01-31T05:08:22.018Z firefly-client] [DONE] POST https://xmind.ai/api/session 200
+[I 2025-01-31T05:08:22.020Z firefly-client] [STARTED] POST https://xmind.ai/api/drive/team/joined
+[I 2025-01-31T05:08:22.160Z firefly-client] [DONE] POST https://xmind.ai/api/drive/team/joined 200
+[I 2025-01-31T05:08:54.219Z main:store:plugins:editors:EditorFrame] Frame a0f8367e2af87832a0c3ca4c78 close
+[I 2025-01-31T05:08:54.333Z main:store:plugins:editors:EditorFrame] Frame a0f8367e2af87832a0c3ca4c78 close
+[I 2025-01-31T05:08:54.337Z main:store:plugins:editors:EditorFrame] Frame a0f8367e2af87832a0c3ca4c78 webContents destroyed
+[I 2025-01-31T05:08:54.365Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2025-01-31T05:08:54.365Z main:store:plugins:electron] Application is intended to quit.
+[I 2025-01-31T05:08:54.366Z main:store:plugins:electron] Application status is quitting:  false
+[I 2025-01-31T05:08:54.366Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2025-01-31T05:08:54.367Z main:store:plugins:electron] All documents are closed.
+[I 2025-01-31T05:08:54.368Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2025-01-31T05:08:54.368Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2025-01-31T05:08:54.375Z main:store:plugins:electron] Application is intended to quit.
+[I 2025-01-31T05:08:54.375Z main:store:plugins:electron] Application status is quitting:  true
+[I 2025-01-31T05:08:54.376Z main:store:plugins:electron] Application will quit.
+[I 2025-01-31T05:08:54.376Z main:store:plugins:electron] Application quitted.

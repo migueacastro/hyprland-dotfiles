@@ -1,0 +1,28 @@
+2025-01-21 14:03:44.190 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-01-21 14:03:44.191 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-01-21 14:03:44.861 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-21 14:03:45.567 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/miguel/.vscode/extensions/extensions.json","path":"/home/miguel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-21 14:03:46.280 [info] Extension signature verification result for ms-azuretools.vscode-docker: UnknownError. Executed: true. Duration: 23ms.
+2025-01-21 14:03:46.437 [info] Extracted extension to file:///home/miguel/.vscode/extensions/ms-azuretools.vscode-docker-1.29.4: ms-azuretools.vscode-docker
+2025-01-21 14:03:46.450 [info] Renamed to /home/miguel/.vscode/extensions/ms-azuretools.vscode-docker-1.29.4
+2025-01-21 14:03:46.489 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-21 14:03:46.514 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.29.3
+2025-01-21 14:03:46.543 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-21 14:03:46.563 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 8ms.
+2025-01-21 14:03:46.752 [info] Extracted extension to file:///home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.0: bradlc.vscode-tailwindcss
+2025-01-21 14:03:46.757 [info] Renamed to /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.0
+2025-01-21 14:03:46.801 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.12.18
+2025-01-21 14:03:46.820 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/miguel/.vscode/extensions/extensions.json
+2025-01-21 14:03:46.843 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miguel/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

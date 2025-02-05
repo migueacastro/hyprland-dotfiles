@@ -1,0 +1,10 @@
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/discord-589393213723246592=discord-589393213723246592.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+image/png=org.gnome.eog.desktop
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+x-scheme-handler/discord-460807638964371468=discord-460807638964371468.desktop
+
+[Added Associations]
+image/png=org.gnome.eog.desktop;

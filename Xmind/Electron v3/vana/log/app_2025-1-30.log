@@ -1,0 +1,26 @@
+[I 2025-01-30T04:20:32.575Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T04:20:34.509Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T05:20:32.591Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T05:20:35.641Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T17:57:50.014Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T17:57:54.130Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T18:57:50.062Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T18:57:55.159Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T19:57:50.063Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T19:57:56.110Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T20:25:29.489Z firefly-client] [STARTED] POST https://xmind.ai/api/session
+[I 2025-01-30T20:25:30.222Z firefly-client] [DONE] POST https://xmind.ai/api/session 200
+[I 2025-01-30T20:25:30.224Z firefly-client] [STARTED] POST https://xmind.ai/api/drive/team/joined
+[I 2025-01-30T20:25:30.362Z firefly-client] [DONE] POST https://xmind.ai/api/drive/team/joined 200
+[I 2025-01-30T20:28:30.131Z fonts] App Locale: en
+[I 2025-01-30T20:28:33.346Z main:store:plugins:editors:EditorFrame] Frame c0aa0fe3ce4aa356d4ad5a9aa0 close
+[I 2025-01-30T20:28:33.572Z main:store:plugins:editors:EditorFrame] Frame c0aa0fe3ce4aa356d4ad5a9aa0 close
+[I 2025-01-30T20:28:33.581Z main:store:plugins:editors:EditorFrame] Frame c0aa0fe3ce4aa356d4ad5a9aa0 webContents destroyed
+[I 2025-01-30T20:57:51.609Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-30T20:57:58.702Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T01:57:35.727Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T01:57:43.945Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T02:57:37.272Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T02:57:46.452Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T03:57:37.273Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2025-01-31T03:57:47.661Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

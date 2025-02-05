@@ -1,0 +1,51 @@
+2025-01-31 17:16:15.383 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-31 17:16:15.753 [info] [Info  - 5:16:15 PM] (5576) Server root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-31 17:16:15.755 [info] [Info  - 5:16:15 PM] (5576) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-31 17:16:15.767 [info] [Info  - 5:16:15 PM] (5576) Starting service instance "dimpro-rest"
+2025-01-31 17:16:15.847 [info] [Info  - 5:16:15 PM] (5576) Setting environmentName for service "dimpro-rest": "3.13.1 (global)"
+2025-01-31 17:16:15.847 [info] [Info  - 5:16:15 PM] (5576) Setting pythonPath for service "dimpro-rest": "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+2025-01-31 17:16:15.848 [info] [Info  - 5:16:15 PM] (5576) No include entries specified; assuming /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:16:15.849 [info] [Info  - 5:16:15 PM] (5576) Auto-excluding **/node_modules
+2025-01-31 17:16:15.849 [info] [Info  - 5:16:15 PM] (5576) Auto-excluding **/__pycache__
+2025-01-31 17:16:15.849 [info] [Info  - 5:16:15 PM] (5576) Auto-excluding **/.*
+2025-01-31 17:16:15.901 [info] [Info  - 5:16:15 PM] (5576) Auto-excluding /home/miguel/Desktop/repositories/dimpro-rest/backend/venv
+2025-01-31 17:16:15.918 [info] [Info  - 5:16:15 PM] (5576) Found 29 source files
+2025-01-31 17:16:15.928 [info] [Info  - 5:16:15 PM] (5576) Starting service instance "<default>"
+2025-01-31 17:16:16.321 [info] [Info  - 5:16:16 PM] (5576) Setting environmentName for service "<default>": "3.13.1 (global)"
+2025-01-31 17:16:16.323 [info] [Info  - 5:16:16 PM] (5576) Setting pythonPath for service "<default>": "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+2025-01-31 17:16:16.323 [info] [Info  - 5:16:16 PM] (5576) No include entries specified; assuming /<default workspace root>
+2025-01-31 17:16:16.326 [info] [Info  - 5:16:16 PM] (5576) Auto-excluding **/node_modules
+2025-01-31 17:16:16.326 [info] [Info  - 5:16:16 PM] (5576) Auto-excluding **/__pycache__
+2025-01-31 17:16:16.327 [info] [Info  - 5:16:16 PM] (5576) Auto-excluding **/.*
+2025-01-31 17:16:16.431 [info] [Error - 5:16:16 PM] (5576) File or directory "/<default workspace root>" does not exist.
+2025-01-31 17:16:16.434 [info] [Info  - 5:16:16 PM] (5576) No source files found.
+2025-01-31 17:16:17.132 [info] [Info  - 5:16:17 PM] (5576) Background analysis(1) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-31 17:16:17.137 [info] [Info  - 5:16:17 PM] (5576) Background analysis(1) started
+2025-01-31 17:16:17.222 [info] [Info  - 5:16:17 PM] (5576) Indexer background runner(2) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-31 17:16:17.223 [info] [Info  - 5:16:17 PM] (5576) Indexing(2) started
+2025-01-31 17:16:17.719 [info] [Info  - 5:16:17 PM] (5576) Background analysis(3) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-31 17:16:17.729 [info] [Info  - 5:16:17 PM] (5576) Background analysis(3) started
+2025-01-31 17:16:17.883 [info] [Info  - 5:16:17 PM] (5576) scanned(2) 1 files over 1 exec env
+2025-01-31 17:16:18.078 [info] [Info  - 5:16:18 PM] (5576) indexed(2) 1 files over 1 exec env
+2025-01-31 17:16:18.092 [info] [Info  - 5:16:18 PM] (5576) Indexing finished(2).
+2025-01-31 17:16:26.013 [info] [Info  - 5:16:26 PM] (5576) Setting environmentName for service "dimpro-rest": "3.13.1 (global)"
+2025-01-31 17:16:26.014 [info] [Info  - 5:16:26 PM] (5576) Setting pythonPath for service "dimpro-rest": "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+2025-01-31 17:16:26.014 [info] [Info  - 5:16:26 PM] (5576) No include entries specified; assuming /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:16:26.014 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding **/node_modules
+2025-01-31 17:16:26.014 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding **/__pycache__
+2025-01-31 17:16:26.015 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding **/.*
+2025-01-31 17:16:26.057 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding /home/miguel/Desktop/repositories/dimpro-rest/backend/venv
+2025-01-31 17:16:26.075 [info] [Info  - 5:16:26 PM] (5576) Found 29 source files
+2025-01-31 17:16:26.134 [info] [Info  - 5:16:26 PM] (5576) Setting environmentName for service "<default>": "3.13.1 (global)"
+2025-01-31 17:16:26.135 [info] [Info  - 5:16:26 PM] (5576) Setting pythonPath for service "<default>": "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+2025-01-31 17:16:26.136 [info] [Info  - 5:16:26 PM] (5576) No include entries specified; assuming /<default workspace root>
+2025-01-31 17:16:26.136 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding **/node_modules
+2025-01-31 17:16:26.136 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding **/__pycache__
+2025-01-31 17:16:26.136 [info] [Info  - 5:16:26 PM] (5576) Auto-excluding **/.*
+2025-01-31 17:16:26.185 [info] [Error - 5:16:26 PM] (5576) File or directory "/<default workspace root>" does not exist.
+2025-01-31 17:16:26.186 [info] [Info  - 5:16:26 PM] (5576) No source files found.
+2025-01-31 17:16:27.023 [info] [Info  - 5:16:27 PM] (5576) Indexer background runner(4) root directory: file:///home/miguel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-31 17:16:27.023 [info] [Info  - 5:16:27 PM] (5576) Indexing(4) started
+2025-01-31 17:16:27.255 [info] [Info  - 5:16:27 PM] (5576) scanned(4) 1 files over 1 exec env
+2025-01-31 17:16:27.413 [info] [Info  - 5:16:27 PM] (5576) indexed(4) 1 files over 1 exec env
+2025-01-31 17:16:27.424 [info] [Info  - 5:16:27 PM] (5576) Indexing finished(4).

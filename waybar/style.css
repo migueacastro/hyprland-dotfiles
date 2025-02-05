@@ -1,6 +1,6 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: "Cousine Nerd Font Mono", "Font Awesome 5 Free";
+    font-family: "JetBrains Mono";
     font-size: 13px;
 
 }
@@ -142,8 +142,9 @@ button:hover {
 }
 
 #battery {
-    border-radius: 50px;
+    border-radius: 50px; 
 }
+
 
 @keyframes blink {
     to {
@@ -163,14 +164,9 @@ button:hover {
     animation-direction: alternate;
 }
 
-#power-profiles-daemon {
-    font-size:15px;
-}
 
 
 #custom-power {
-    margin: 0 4px;
-    font-size: 23px;
     border-radius: 50px;
 }
 
@@ -179,9 +175,6 @@ label:focus {
 }
 
 
-#network {
-    font-size: 20px;
-}
 
 
 
@@ -310,7 +303,6 @@ label:focus {
 }
 
 #custom-dashboard, #custom-firefox, #custom-vscode, #custom-pgadmin4 {
-    font-size: 30px;
-    margin-left: 0.45em;
-    margin-right: 0.45em;
+    margin-left: 0.55em;
+    margin-right: 0.55em;
 }

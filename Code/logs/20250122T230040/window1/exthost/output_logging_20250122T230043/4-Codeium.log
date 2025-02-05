@@ -1,0 +1,65 @@
+(VSCode) 2025-01-22 23:00:52.899 [INFO]: No proxy settings found
+(VSCode) 2025-01-22 23:00:53.555 [INFO]: Checking network connection...
+(VSCode) 2025-01-22 23:00:53.942 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-01-22 23:00:54.041 [INFO]: Creating manager directory: /tmp/18511507-1c3a-4b75-8d8c-dd84d5c9c711/codeium/manager
+(VSCode) 2025-01-22 23:00:54.713 [INFO]: Using cached LS with valid crc32: /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/1922b6ec8869ef782574fa5f5951f1c5e172c7b6/language_server_linux_x64
+(VSCode) 2025-01-22 23:00:54.723 [INFO]: Language server started
+2025/01/22 23:00:54 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+I0122 23:00:54.837786 58815 main.go:568] [Language Server Manager] Setting GOMAXPROCS to 4
+I0122 23:00:54.837846 58815 main.go:707] [Language Server Manager] Release 1.30.18 (1922b6ec8869ef782574fa5f5951f1c5e172c7b6)
+I0122 23:00:54.837872 58815 main.go:786] [Language Server Manager] Starting language server manager with pid 58815
+I0122 23:00:54.837936 58815 main.go:123] [Language Server Manager] Manager acquired its lock file /tmp/18511507-1c3a-4b75-8d8c-dd84d5c9c711/codeium/manager/locks/manager.lock
+I0122 23:00:54.838431 58815 main.go:264] [Language Server Manager] Waiting for random port file in /tmp/18511507-1c3a-4b75-8d8c-dd84d5c9c711/codeium/manager/child_random_port_1737601254838012974_7997444457244710026 to be created
+2025/01/22 23:00:54 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+I0122 23:00:54.962498 58824 main.go:568] Setting GOMAXPROCS to 4
+I0122 23:00:54.962962 58824 main.go:780] Starting language server process with pid 58824
+I0122 23:00:54.963009 58824 server.go:220] Language server will attempt to listen on host 127.0.0.1
+I0122 23:00:54.963139 58824 server.go:227] Language server listening on random port at 40345
+I0122 23:00:55.319899 58824 unleash.go:92] Initializing Unleash
+I0122 23:00:55.647807 58824 unleash.go:112] Successfully initialized Unleash
+I0122 23:00:55.648031 58824 server.go:297] Extension server port not specified; skipping extension server client creation
+I0122 23:00:55.667359 58824 web_server.go:258] Chat Web Server listening at ws://127.0.0.1:33227
+E0122 23:00:55.686954 58824 client_manager.go:275] Metadata is nil when trying to refresh user JWT
+I0122 23:00:55.687753 58824 server.go:528] Successfully created API server client
+I0122 23:00:55.727504 58824 server.go:546] Successfully initialized tokenizer
+I0122 23:00:56.015355 58824 server.go:721] Local search is enabled, will index local files.
+I0122 23:00:56.015379 58824 server.go:725] Using 1 indexer workers
+I0122 23:00:56.037676 58824 sqlite_faiss_db_client.go:64] Successfully created embedding search database in 22ms
+I0122 23:00:56.038034 58824 indexer.go:213] Using 4 embed workers
+I0122 23:00:56.038099 58824 search_provider.go:274] Successfully created and started indexer
+I0122 23:00:56.038250 58824 search_provider.go:304] Successfully created embedding search provider
+I0122 23:00:56.047342 58824 server.go:813] Successfully created completion provider
+I0122 23:00:56.047377 58824 server.go:862] Child process attempting to acquire lock file /tmp/18511507-1c3a-4b75-8d8c-dd84d5c9c711/codeium/manager/locks/child_lock_1737601254838033614_1725148658041212525
+I0122 23:00:56.047438 58824 server.go:870] Child process acquired lock file /tmp/18511507-1c3a-4b75-8d8c-dd84d5c9c711/codeium/manager/locks/child_lock_1737601254838033614_1725148658041212525
+I0122 23:00:56.053508 58824 server.go:356] LSP listening on random port at 39989
+39989
+I0122 23:00:56.143863 58815 main.go:300] [Language Server Manager] Found random server port 40345
+I0122 23:00:56.143896 58815 main.go:301] [Language Server Manager] Found random lsp port 39989
+I0122 23:00:56.143915 58815 main.go:308] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:40345
+I0122 23:00:56.156045 58815 main.go:177] [Language Server Manager] Fixing language server port at 40345
+I0122 23:00:56.156063 58815 main.go:360] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:40345
+(VSCode) 2025-01-22 23:00:56.238 [INFO]: Found language server running on port 40345
+I0122 23:00:56.252232 58824 utils.go:228] Analyzing workspace files for /home/miguel/Desktop/repositories/dimpro-rest
+I0122 23:00:56.256253 58824 utils.go:282] Done analyzing workspace files for /home/miguel/Desktop/repositories/dimpro-rest
+I0122 23:00:56.292576 58824 lazy_model.go:31] Successfully created embedding store
+(VSCode) 2025-01-22 23:00:57.021 [INFO]: openAllTextDocuments took 404.17241999999897ms
+(VSCode) 2025-01-22 23:11:45.312 [INFO]: Codeium is not enabled for the current document.
+(VSCode) 2025-01-22 23:11:46.926 [INFO]: Codeium is not enabled for the current document.
+(VSCode) 2025-01-22 23:11:47.021 [INFO]: Codeium is not enabled for the current document.
+(VSCode) 2025-01-22 23:11:47.294 [INFO]: Codeium is not enabled for the current document.
+(VSCode) 2025-01-22 23:20:01.813 [INFO]: Disposing language server process
+(VSCode) 2025-01-22 23:20:01.815 [INFO]: Deleting manager directory: /tmp/18511507-1c3a-4b75-8d8c-dd84d5c9c711/codeium/manager
+(VSCode) 2025-01-22 23:20:01.820 [INFO]: Successfully disposed language server
+W0122 23:20:01.813538 58815 main.go:127] [Language Server Manager] Got signal terminated, shutting down
+I0122 23:20:01.917641 58824 server.go:1035] Exit requested on language server process 58824
+I0122 23:20:01.917749 58824 server.go:1012] Language server shutting down
+I0122 23:20:01.932919 58815 cmd_wrapper.go:271] [Language Server Manager] LanguageServer exited with: success
+(VSCode) 2025-01-22 23:20:01.936 [INFO]: Language server exited with code 0
+(VSCode) 2025-01-22 23:20:02.235 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:40345
+(VSCode) 2025-01-22 23:20:02.735 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:40345
+(VSCode) 2025-01-22 23:20:02.938 [ERROR]: connect ECONNREFUSED 127.0.0.1:33227
+(VSCode) 2025-01-22 23:20:02.938 [ERROR]: connect ECONNREFUSED 127.0.0.1:33227
+(VSCode) 2025-01-22 23:20:03.232 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:40345
+(VSCode) 2025-01-22 23:20:03.264 [ERROR]: connect ECONNREFUSED 127.0.0.1:33227
+(VSCode) 2025-01-22 23:20:03.265 [ERROR]: connect ECONNREFUSED 127.0.0.1:33227
+(VSCode) 2025-01-22 23:20:03.732 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:40345

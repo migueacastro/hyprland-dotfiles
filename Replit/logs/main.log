@@ -1,0 +1,135 @@
+[2025-01-15 16:28:32.867] [info]  Launching app version: 1.0.14
+[2025-01-15 16:28:32.870] [info]  Platform: linux (x64)
+[2025-01-15 16:28:32.870] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-15 16:28:32.872] [info]  Initializing Sentry
+[2025-01-15 16:28:32.898] [info]  Registering deeplink protocol
+[2025-01-15 16:28:32.916] [info]  Setting deeplink listeners
+[2025-01-15 16:28:33.130] [info]  App Ready
+[2025-01-15 16:28:33.131] [info]  Creating window with URL:  https://replit.com/desktopApp/home
+[2025-01-15 16:28:33.202] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-15 16:28:34.025] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-15 16:28:35.124] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-15 16:28:35.616] [info]  Recieved IPC event: OPEN_EXTERNAL_URL with params {"url":"https://replit.com/login?desktopAppAuthFlow=1"}
+[2025-01-15 16:28:41.616] [info]  Launching app version: 1.0.14
+[2025-01-15 16:28:41.621] [info]  Platform: linux (x64)
+[2025-01-15 16:28:41.621] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar,replit://authComplete?authToken=dbb6a016-fdfa-49cf-8999-9426a2f4e155
+[2025-01-15 16:28:41.626] [info]  Initializing Sentry
+[2025-01-15 16:28:41.641] [info]  Registering deeplink protocol
+[2025-01-15 16:28:41.661] [info]  Setting deeplink listeners
+[2025-01-15 16:28:41.662] [info]  Arrived from deeplink: replit://authComplete?authToken=dbb6a016-fdfa-49cf-8999-9426a2f4e155
+[2025-01-15 16:28:41.664] [info]  Failed to acquire instance lock. Quitting the app.
+[2025-01-15 16:28:41.792] [info]  App Ready
+[2025-01-15 16:28:41.794] [info]  Creating window with URL:  https://replit.com/desktopApp/home
+[2025-01-15 16:28:41.861] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-15 16:28:42.501] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-15 16:28:42.701] [info]  Recieved IPC event: UPDATE_USER_INFO with params {"id":16301661,"username":"Miguel-CastroCa","email":"miguelcastropadron@gmail.com"}
+[2025-01-15 16:28:43.282] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-15 20:59:27.818] [info]  Launching app version: 1.0.14
+[2025-01-15 20:59:27.828] [info]  Platform: linux (x64)
+[2025-01-15 20:59:27.829] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-15 20:59:27.836] [info]  Initializing Sentry
+[2025-01-15 20:59:27.870] [info]  Registering deeplink protocol
+[2025-01-15 20:59:27.918] [info]  Setting deeplink listeners
+[2025-01-15 20:59:28.192] [info]  App Ready
+[2025-01-15 20:59:28.197] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-15 20:59:28.363] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-15 20:59:29.686] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-15 20:59:29.760] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-15 21:00:34.910] [info]  Launching app version: 1.0.14
+[2025-01-15 21:00:34.919] [info]  Platform: linux (x64)
+[2025-01-15 21:00:34.920] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-15 21:00:34.927] [info]  Initializing Sentry
+[2025-01-15 21:00:34.954] [info]  Registering deeplink protocol
+[2025-01-15 21:00:34.994] [info]  Setting deeplink listeners
+[2025-01-15 21:00:35.229] [info]  App Ready
+[2025-01-15 21:00:35.232] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-15 21:00:35.376] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-15 21:00:36.615] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-15 21:00:57.702] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-15 23:04:04.000] [info]  Launching app version: 1.0.14
+[2025-01-15 23:04:04.005] [info]  Platform: linux (x64)
+[2025-01-15 23:04:04.005] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-15 23:04:04.008] [info]  Initializing Sentry
+[2025-01-15 23:04:04.027] [info]  Registering deeplink protocol
+[2025-01-15 23:04:04.050] [info]  Setting deeplink listeners
+[2025-01-15 23:04:04.178] [info]  App Ready
+[2025-01-15 23:04:04.179] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-15 23:04:04.258] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-15 23:04:05.248] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-15 23:04:08.293] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-16 12:03:28.756] [info]  Launching app version: 1.0.14
+[2025-01-16 12:03:28.760] [info]  Platform: linux (x64)
+[2025-01-16 12:03:28.760] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-16 12:03:28.763] [info]  Initializing Sentry
+[2025-01-16 12:03:28.788] [info]  Registering deeplink protocol
+[2025-01-16 12:03:28.805] [info]  Setting deeplink listeners
+[2025-01-16 12:03:29.017] [info]  App Ready
+[2025-01-16 12:03:29.019] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-16 12:03:29.098] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-16 12:03:29.914] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-16 12:03:32.301] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-16 13:51:27.783] [info]  Launching app version: 1.0.14
+[2025-01-16 13:51:27.787] [info]  Platform: linux (x64)
+[2025-01-16 13:51:27.787] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-16 13:51:27.789] [info]  Initializing Sentry
+[2025-01-16 13:51:27.800] [info]  Registering deeplink protocol
+[2025-01-16 13:51:27.814] [info]  Setting deeplink listeners
+[2025-01-16 13:51:27.914] [info]  App Ready
+[2025-01-16 13:51:27.916] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-16 13:51:27.983] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-16 13:51:28.756] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-16 13:51:33.289] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-16 14:53:59.758] [info]  Opening external URL in window open handler:  {
+  url: 'https://bd2c7731-eea7-47d1-8886-dd8133157689-00-hnezs8zhtojv.spock.replit.dev/',
+  frameName: '',
+  features: '',
+  referrer: {
+    url: 'https://replit.com/',
+    policy: 'strict-origin-when-cross-origin'
+  },
+  disposition: 'background-tab'
+}
+[2025-01-16 16:46:59.645] [info]  Opening external URL in window open handler:  {
+  url: 'https://bd2c7731-eea7-47d1-8886-dd8133157689-00-hnezs8zhtojv.spock.replit.dev/',
+  frameName: '',
+  features: '',
+  disposition: 'foreground-tab',
+  referrer: {
+    url: 'https://replit.com/',
+    policy: 'strict-origin-when-cross-origin'
+  }
+}
+[2025-01-16 17:23:07.029] [info]  Launching app version: 1.0.14
+[2025-01-16 17:23:07.032] [info]  Platform: linux (x64)
+[2025-01-16 17:23:07.032] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-16 17:23:07.034] [info]  Initializing Sentry
+[2025-01-16 17:23:07.044] [info]  Registering deeplink protocol
+[2025-01-16 17:23:07.060] [info]  Setting deeplink listeners
+[2025-01-16 17:23:07.143] [info]  App Ready
+[2025-01-16 17:23:07.144] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-16 17:23:07.196] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-16 17:23:07.989] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-16 17:23:10.189] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-16 17:23:18.413] [info]  Recieved IPC event: OPEN_EXTERNAL_URL with params {"url":"https://replit.com/@Miguel-CastroCa/dimpro-rest?v=1"}
+[2025-01-16 17:33:33.058] [info]  Launching app version: 1.0.14
+[2025-01-16 17:33:33.061] [info]  Platform: linux (x64)
+[2025-01-16 17:33:33.061] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-16 17:33:33.064] [info]  Initializing Sentry
+[2025-01-16 17:33:33.074] [info]  Registering deeplink protocol
+[2025-01-16 17:33:33.088] [info]  Setting deeplink listeners
+[2025-01-16 17:33:33.179] [info]  App Ready
+[2025-01-16 17:33:33.181] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-16 17:33:33.235] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-16 17:33:34.088] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-16 17:33:35.689] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}
+[2025-01-17 15:23:40.559] [info]  Launching app version: 1.0.14
+[2025-01-17 15:23:40.563] [info]  Platform: linux (x64)
+[2025-01-17 15:23:40.563] [info]  Args: /usr/lib/electron33/electron,/usr/lib/replit/resources/app.asar
+[2025-01-17 15:23:40.565] [info]  Initializing Sentry
+[2025-01-17 15:23:40.590] [info]  Registering deeplink protocol
+[2025-01-17 15:23:40.605] [info]  Setting deeplink listeners
+[2025-01-17 15:23:40.821] [info]  App Ready
+[2025-01-17 15:23:40.822] [info]  Creating window with URL:  https://replit.com/@Miguel-CastroCa/dimpro-rest
+[2025-01-17 15:23:40.893] [info]  Skipping auto-update. Auto-update is not supported on Linux.
+[2025-01-17 15:23:41.847] [info]  Recieved IPC event: GET_USER_INFO
+[2025-01-17 15:23:43.994] [info]  Recieved IPC event: THEME_VALUES_CHANGED with params {"backgroundRoot":"#0E1525","foregroundDefault":"#F5F9FC"}

@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1735785685715" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1735785680832" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1735785663481" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1735785623078" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1735785638688" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1735785614309" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1735785681868" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1735785637448" />
+    </e>
+  </component>
+</application>

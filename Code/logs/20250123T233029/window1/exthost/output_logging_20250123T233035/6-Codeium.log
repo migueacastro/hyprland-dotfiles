@@ -1,0 +1,58 @@
+(VSCode) 2025-01-23 23:30:53.206 [INFO]: No proxy settings found
+(VSCode) 2025-01-23 23:30:54.536 [INFO]: Checking network connection...
+(VSCode) 2025-01-23 23:30:55.714 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-01-23 23:30:56.257 [INFO]: Creating manager directory: /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager
+(VSCode) 2025-01-23 23:30:58.218 [INFO]: Using cached LS with valid crc32: /home/miguel/.vscode/extensions/codeium.codeium-1.30.18/dist/1922b6ec8869ef782574fa5f5951f1c5e172c7b6/language_server_linux_x64
+(VSCode) 2025-01-23 23:30:58.239 [INFO]: Language server started
+2025/01/23 23:30:58 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+I0123 23:30:58.497826 218555 main.go:568] [Language Server Manager] Setting GOMAXPROCS to 4
+I0123 23:30:58.497917 218555 main.go:707] [Language Server Manager] Release 1.30.18 (1922b6ec8869ef782574fa5f5951f1c5e172c7b6)
+I0123 23:30:58.497948 218555 main.go:786] [Language Server Manager] Starting language server manager with pid 218555
+I0123 23:30:58.498055 218555 main.go:123] [Language Server Manager] Manager acquired its lock file /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/locks/manager.lock
+I0123 23:30:58.500646 218555 main.go:264] [Language Server Manager] Waiting for random port file in /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/child_random_port_1737689458498149716_2179189303152882861 to be created
+2025/01/23 23:30:58 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+I0123 23:30:58.806372 218564 main.go:568] Setting GOMAXPROCS to 4
+I0123 23:30:58.807323 218564 main.go:780] Starting language server process with pid 218564
+I0123 23:30:58.807388 218564 server.go:220] Language server will attempt to listen on host 127.0.0.1
+I0123 23:30:58.807551 218564 server.go:227] Language server listening on random port at 36173
+I0123 23:30:59.850380 218564 unleash.go:92] Initializing Unleash
+I0123 23:31:00.380000 218564 unleash.go:112] Successfully initialized Unleash
+I0123 23:31:00.380415 218564 server.go:297] Extension server port not specified; skipping extension server client creation
+I0123 23:31:00.398697 218564 web_server.go:258] Chat Web Server listening at ws://127.0.0.1:44469
+E0123 23:31:00.460872 218564 client_manager.go:275] Metadata is nil when trying to refresh user JWT
+I0123 23:31:00.461974 218564 server.go:528] Successfully created API server client
+I0123 23:31:00.520966 218564 server.go:546] Successfully initialized tokenizer
+I0123 23:31:01.008964 218564 server.go:721] Local search is enabled, will index local files.
+I0123 23:31:01.009022 218564 server.go:725] Using 1 indexer workers
+I0123 23:31:01.028399 218564 sqlite_faiss_db_client.go:64] Successfully created embedding search database in 19ms
+I0123 23:31:01.028870 218564 indexer.go:213] Using 4 embed workers
+I0123 23:31:01.028933 218564 search_provider.go:274] Successfully created and started indexer
+I0123 23:31:01.028966 218564 search_provider.go:304] Successfully created embedding search provider
+I0123 23:31:01.043053 218564 server.go:813] Successfully created completion provider
+I0123 23:31:01.043130 218564 server.go:862] Child process attempting to acquire lock file /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/locks/child_lock_1737689458498179366_2054967471561457709
+I0123 23:31:01.043273 218564 server.go:870] Child process acquired lock file /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/locks/child_lock_1737689458498179366_2054967471561457709
+I0123 23:31:01.053323 218564 server.go:356] LSP listening on random port at 38889
+38889
+I0123 23:31:01.121569 218555 main.go:300] [Language Server Manager] Found random server port 36173
+I0123 23:31:01.121603 218555 main.go:301] [Language Server Manager] Found random lsp port 38889
+I0123 23:31:01.121621 218555 main.go:308] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:36173
+I0123 23:31:01.135825 218555 main.go:177] [Language Server Manager] Fixing language server port at 36173
+I0123 23:31:01.135874 218555 main.go:360] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:36173
+(VSCode) 2025-01-23 23:31:01.217 [INFO]: Found language server running on port 36173
+I0123 23:31:01.254103 218564 utils.go:228] Analyzing workspace files for /home/miguel/Desktop/repositories/dimpro-rest
+I0123 23:31:01.261046 218564 utils.go:282] Done analyzing workspace files for /home/miguel/Desktop/repositories/dimpro-rest
+I0123 23:31:01.306116 218564 lazy_model.go:31] Successfully created embedding store
+(VSCode) 2025-01-23 23:31:02.117 [INFO]: openAllTextDocuments took 180.35691999999835ms
+(VSCode) 2025-01-23 23:31:04.835 [INFO]: Disposing language server process
+(VSCode) 2025-01-23 23:31:04.839 [INFO]: Deleting manager directory: /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager
+(VSCode) 2025-01-23 23:31:04.841 [INFO]: Successfully disposed language server
+W0123 23:31:04.839712 218555 main.go:127] [Language Server Manager] Got signal terminated, shutting down
+E0123 23:31:05.057258 218564 server.go:458] Error while locking manager lock file - open /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/locks/manager.lock: no such file or directory
+I0123 23:31:05.057380 218564 server.go:1012] Language server shutting down
+(VSCode) 2025-01-23 23:31:05.153 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:36173
+E0123 23:31:05.141710 218555 main.go:374] [Language Server Manager] Failed to acquire lock on /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/locks/child_lock_1737689458498179366_2054967471561457709: open /tmp/cf59f561-0dbb-477f-86b0-0b0981a56041/codeium/manager/locks/child_lock_1737689458498179366_2054967471561457709: no such file or directory
+E0123 23:31:05.142167 218555 main.go:407] [Language Server Manager] Failed Exit RPC on language server: dial tcp 127.0.0.1:36173: connect: connection refused
+I0123 23:31:05.149507 218555 cmd_wrapper.go:271] [Language Server Manager] LanguageServer exited with: success
+(VSCode) 2025-01-23 23:31:05.236 [ERROR]: Failed to stop lsp
+(VSCode) 2025-01-23 23:31:05.239 [INFO]: Language server exited with code 0
+(VSCode) 2025-01-23 23:31:05.255 [ERROR]: Failed to stop exit

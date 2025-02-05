@@ -1,0 +1,14 @@
+2025/01/17-15:23:43.204 1bca Reusing MANIFEST /home/miguel/.config/Replit/IndexedDB/https_replit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/17-15:23:43.205 1bca Recovering log #29
+2025/01/17-15:23:43.205 1bca Reusing old log /home/miguel/.config/Replit/IndexedDB/https_replit.com_0.indexeddb.leveldb/000029.log 
+2025/01/17-15:23:43.205 1bca Delete type=2 #27
+2025/01/17-15:23:44.045 1bf2 Level-0 table #34: started
+2025/01/17-15:23:44.049 1bf2 Level-0 table #34: 915 bytes OK
+2025/01/17-15:23:44.053 1bf2 Delete type=0 #29
+2025/01/17-15:23:44.053 1bf1 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 399 : 1
+2025/01/17-15:23:44.053 1bf1 Compacting 1@0 + 1@1 files
+2025/01/17-15:23:44.056 1bf1 Generated table #35@0: 68 keys, 1472 bytes
+2025/01/17-15:23:44.056 1bf1 Compacted 1@0 + 1@1 files => 1472 bytes
+2025/01/17-15:23:44.061 1bf1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/17-15:23:44.061 1bf1 Delete type=2 #34
+2025/01/17-15:23:44.061 1bf1 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 399 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

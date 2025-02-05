@@ -1,0 +1,83 @@
+2025-01-31 17:00:57.404 [info] [main] Log level: Info
+2025-01-31 17:00:57.404 [info] [main] Validating found git in: "git"
+2025-01-31 17:00:57.404 [info] [main] Using git "2.48.1" from "git"
+2025-01-31 17:00:57.404 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-31 17:00:57.404 [info] > git rev-parse --show-toplevel [21ms]
+2025-01-31 17:00:57.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:57.404 [info] > git rev-parse --show-toplevel [11ms]
+2025-01-31 17:00:57.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:57.404 [info] > git rev-parse --show-toplevel [79ms]
+2025-01-31 17:00:57.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:57.415 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-31 17:00:57.415 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:57.456 [info] > git rev-parse --show-toplevel [33ms]
+2025-01-31 17:00:57.456 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:57.494 [info] > git rev-parse --show-toplevel [7ms]
+2025-01-31 17:00:57.496 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:57.500 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-31 17:00:59.435 [info] > git rev-parse --show-toplevel [57ms]
+2025-01-31 17:00:59.435 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:59.501 [info] > git rev-parse --show-toplevel [43ms]
+2025-01-31 17:00:59.501 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:00:59.533 [info] > git rev-parse --show-toplevel [15ms]
+2025-01-31 17:00:59.533 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-31 17:01:22.089 [info] [main] Log level: Info
+2025-01-31 17:01:22.089 [info] [main] Validating found git in: "git"
+2025-01-31 17:01:22.089 [info] [main] Using git "2.48.1" from "git"
+2025-01-31 17:01:22.089 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-31 17:01:22.089 [info] > git rev-parse --show-toplevel [99ms]
+2025-01-31 17:01:22.939 [info] > git rev-parse --git-dir --git-common-dir [825ms]
+2025-01-31 17:01:22.953 [info] [Model][openRepository] Opened repository: /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-31 17:01:23.275 [info] > git rev-parse --show-toplevel [202ms]
+2025-01-31 17:01:23.279 [info] > git config --get commit.template [212ms]
+2025-01-31 17:01:23.460 [info] > git rev-parse --show-toplevel [53ms]
+2025-01-31 17:01:23.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [61ms]
+2025-01-31 17:01:23.512 [info] > git rev-parse --show-toplevel [24ms]
+2025-01-31 17:01:23.518 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-31 17:01:24.063 [info] > git check-ignore -v -z --stdin [472ms]
+2025-01-31 17:01:24.075 [info] > git status -z -uall [237ms]
+2025-01-31 17:01:24.092 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [221ms]
+2025-01-31 17:01:24.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [147ms]
+2025-01-31 17:01:24.392 [info] > git show --textconv :frontend/src/lib/api_url.ts [34ms]
+2025-01-31 17:01:24.397 [info] > git ls-files --stage -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [17ms]
+2025-01-31 17:01:24.423 [info] > git config --local branch.cambios-miguel.vscode-merge-base [99ms]
+2025-01-31 17:01:24.447 [info] > git config --get commit.template [182ms]
+2025-01-31 17:01:24.518 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/cambios-miguel refs/remotes/origin/cambios-miguel [75ms]
+2025-01-31 17:01:24.568 [info] > git cat-file -s 6dcc841e060f2d076edc3e1a409142a9e92ae176 [149ms]
+2025-01-31 17:01:24.608 [info] > git merge-base refs/heads/cambios-miguel refs/remotes/origin/cambios-miguel [69ms]
+2025-01-31 17:01:24.665 [info] > git diff --name-status -z --diff-filter=ADMR e9fd8761bae84fa1f561f1e8289387e758ff685b...refs/remotes/origin/cambios-miguel [14ms]
+2025-01-31 17:01:24.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [64ms]
+2025-01-31 17:01:24.868 [info] > git status -z -uall [28ms]
+2025-01-31 17:01:24.872 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-01-31 17:01:24.889 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n126 --follow -- /home/miguel/Desktop/repositories/dimpro-rest/frontend/src/lib/api_url.ts [375ms]
+2025-01-31 17:01:25.273 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n126 --follow -- /home/miguel/Desktop/repositories/dimpro-rest/backend/db.sqlite3 [140ms]
+2025-01-31 17:02:40.280 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n126 --follow -- /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py [484ms]
+2025-01-31 17:02:40.533 [info] > git show --textconv :backend/dimpro/models.py [38ms]
+2025-01-31 17:02:40.535 [info] > git ls-files --stage -- /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py [12ms]
+2025-01-31 17:02:40.557 [info] > git cat-file -s 1bc51983fbaff44282fd77a0e3f27ea9ba16ce5f [5ms]
+2025-01-31 17:02:41.613 [info] > git blame --root --incremental e9fd8761bae84fa1f561f1e8289387e758ff685b -- /home/miguel/Desktop/repositories/dimpro-rest/backend/dimpro/models.py [839ms]
+2025-01-31 17:03:44.937 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [4ms]
+2025-01-31 17:03:44.939 [info] > git config --get commit.template [22ms]
+2025-01-31 17:03:44.967 [info] > git status -z -uall [13ms]
+2025-01-31 17:03:44.972 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-01-31 17:04:30.546 [info] > git config --get commit.template [2ms]
+2025-01-31 17:04:30.562 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [3ms]
+2025-01-31 17:04:30.582 [info] > git status -z -uall [8ms]
+2025-01-31 17:04:30.583 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-31 17:06:23.520 [info] > git config --get commit.template [1ms]
+2025-01-31 17:06:23.540 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [4ms]
+2025-01-31 17:06:23.600 [info] > git status -z -uall [31ms]
+2025-01-31 17:06:23.604 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-01-31 17:06:38.628 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [5ms]
+2025-01-31 17:06:38.629 [info] > git config --get commit.template [23ms]
+2025-01-31 17:06:38.658 [info] > git status -z -uall [15ms]
+2025-01-31 17:06:38.661 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-01-31 17:09:52.311 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-31 17:09:53.487 [info] > git config --get commit.template [3ms]
+2025-01-31 17:09:53.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [2ms]
+2025-01-31 17:09:53.535 [info] > git status -z -uall [16ms]
+2025-01-31 17:09:53.541 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-01-31 17:10:50.170 [info] > git config --get commit.template [3ms]
+2025-01-31 17:10:50.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cambios-miguel refs/remotes/cambios-miguel [1ms]
+2025-01-31 17:10:50.215 [info] > git status -z -uall [17ms]
+2025-01-31 17:10:50.217 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]

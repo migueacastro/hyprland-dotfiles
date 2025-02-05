@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+* {
+	font-family: Arial, Helvetica;
+}
+html,
+body {
+	@apply h-full overflow-hidden;
+}
+
+@keyframes show-text {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes hide-text {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0:
+	}
+}
+
+@keyframes show-sidebar {
+	0% {
+		width: 5rem;
+	}
+	100% {
+		width: 14rem;
+	}
+}
+
+@keyframes hide-sidebar {
+	0% {
+		width: 14rem;
+	}
+	50% {
+		width: 14rem;
+	}
+	100% {
+		width: 5rem;
+	}
+}
+

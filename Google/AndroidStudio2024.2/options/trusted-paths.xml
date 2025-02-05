@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/StudioProjects/MyApplication" value="true" />
+        <entry key="$USER_HOME$/StudioProjects/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

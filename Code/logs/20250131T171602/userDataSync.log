@@ -1,0 +1,53 @@
+2025-01-31 17:16:04.771 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-31 17:16:04.771 [info] Auto Sync is enabled.
+2025-01-31 17:16:04.771 [info] Auto Sync: Suspended until auth token is available.
+2025-01-31 17:16:10.926 [info] Auto Sync: Triggered by Interval
+2025-01-31 17:16:10.928 [info] Sync started.
+2025-01-31 17:16:11.875 [info] Settings: No changes found during synchronizing settings.
+2025-01-31 17:16:11.900 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-31 17:16:11.909 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-31 17:16:11.914 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-31 17:16:11.929 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-31 17:16:12.100 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-31 17:16:12.108 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-31 17:16:12.111 [info] Sync done. Took 1193ms
+2025-01-31 17:17:37.314 [info] Auto Sync: Triggered by Activity
+2025-01-31 17:17:37.314 [info] Sync started.
+2025-01-31 17:17:37.425 [info] Settings: No changes found during synchronizing settings.
+2025-01-31 17:17:37.428 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-31 17:17:37.430 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-31 17:17:37.433 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-31 17:17:37.438 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-31 17:17:37.519 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-31 17:17:37.520 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-31 17:17:37.521 [info] Sync done. Took 208ms
+2025-01-31 17:19:56.526 [info] Auto Sync: Triggered by Activity
+2025-01-31 17:19:56.526 [info] Sync started.
+2025-01-31 17:19:56.969 [info] Settings: No changes found during synchronizing settings.
+2025-01-31 17:19:56.973 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-31 17:19:56.976 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-31 17:19:56.978 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-31 17:19:56.983 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-31 17:19:57.072 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-31 17:19:57.073 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-31 17:19:57.074 [info] Sync done. Took 548ms
+2025-01-31 17:20:40.157 [info] Auto Sync: Triggered by Activity
+2025-01-31 17:20:40.157 [info] Sync started.
+2025-01-31 17:20:40.268 [info] Settings: No changes found during synchronizing settings.
+2025-01-31 17:20:40.271 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-31 17:20:40.273 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-31 17:20:40.276 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-31 17:20:40.279 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-31 17:20:40.345 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-31 17:20:40.346 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-31 17:20:40.347 [info] Sync done. Took 191ms
+2025-01-31 17:21:46.717 [info] Auto Sync: Triggered by Activity
+2025-01-31 17:21:46.717 [info] Sync started.
+2025-01-31 17:21:46.860 [info] Settings: No changes found during synchronizing settings.
+2025-01-31 17:21:46.867 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-31 17:21:46.885 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-31 17:21:46.897 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-31 17:21:46.908 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-31 17:21:47.090 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-31 17:21:47.094 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-31 17:21:47.099 [info] Sync done. Took 385ms

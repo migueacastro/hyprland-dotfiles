@@ -1,0 +1,61 @@
+!SESSION 2025-01-02 13:28:15.068 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-f41f53caed40e40bc9794cee361b0e46.sock
+Command-line arguments:  -data /home/miguel/.config/Code/User/workspaceStorage/b14edc98ed34e2be8fd1125abaf968b4/redhat.java/ss_ws --pipe=/run/user/1000/lsp-f41f53caed40e40bc9794cee361b0e46.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:22.405
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:22.967
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:23.981
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:23.985
+!MESSAGE Initializing Java Language Server 1.43.0.202412190401
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:24.338
+!MESSAGE Setting /usr/lib/jvm/java-21-openjdk as 'JavaSE-21' environment (id:1735838904287)
+
+!ENTRY org.eclipse.jdt.launching 4 0 2025-01-02 13:28:25.638
+!MESSAGE Target is not a JDK root. System library was not found.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:25.666
+!MESSAGE Setting java.home /usr/lib/jvm/java-23-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:25.690
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:25.744
+!MESSAGE Workspace initialized in 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:25.983
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:26.022
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:26.029
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:26.032
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:27.175
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:53.242
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:53.314
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:53.514
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-02 13:28:53.549
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -1,0 +1,40 @@
+2025-01-27 01:13:35.795 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:13:35.795 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:13:35.795 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:13:36.770 [info] Started local extension host with pid 104656.
+2025-01-27 01:13:38.149 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:13:38.356 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.printWidth'. This property is already registered.
+2025-01-27 01:13:38.358 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.tabWidth'. This property is already registered.
+2025-01-27 01:13:38.359 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.singleQuote'. This property is already registered.
+2025-01-27 01:13:38.360 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.trailingComma'. This property is already registered.
+2025-01-27 01:13:38.361 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.bracketSpacing'. This property is already registered.
+2025-01-27 01:13:38.363 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.jsxBracketSameLine'. This property is already registered.
+2025-01-27 01:13:38.363 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.semi'. This property is already registered.
+2025-01-27 01:13:38.366 [warning] [esbenp.prettier-vscode]: Cannot register 'prettier.useTabs'. This property is already registered.
+2025-01-27 01:13:38.373 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-01-27 01:13:42.132 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2025-01-27 01:13:44.232 [info] Settings Sync: Token updated for the account migueacastro
+2025-01-27 01:13:44.342 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-27 01:13:46.453 [info] [perf] Render performance baseline is 90ms
+2025-01-27 01:13:47.977 [info] Settings Sync: Token updated for the account migueacastro
+2025-01-27 01:14:08.635 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:14:08.636 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:14:08.636 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:14:08.892 [info] Started local extension host with pid 105148.
+2025-01-27 01:14:10.091 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:14:10.510 [warning] No search provider registered for scheme: file, waiting
+2025-01-27 01:14:10.895 [info] Settings Sync: Token updated for the account migueacastro
+2025-01-27 01:14:10.925 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-27 01:14:11.472 [info] Settings Sync: Token updated for the account migueacastro
+2025-01-27 01:14:11.878 [info] [perf] Render performance baseline is 42ms
+2025-01-27 01:14:12.162 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 01:14:12.198 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.printWidth'. This property is already registered.
+2025-01-27 01:14:12.199 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.tabWidth'. This property is already registered.
+2025-01-27 01:14:12.199 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.singleQuote'. This property is already registered.
+2025-01-27 01:14:12.200 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.trailingComma'. This property is already registered.
+2025-01-27 01:14:12.200 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.bracketSpacing'. This property is already registered.
+2025-01-27 01:14:12.200 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.jsxBracketSameLine'. This property is already registered.
+2025-01-27 01:14:12.200 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.semi'. This property is already registered.
+2025-01-27 01:14:12.200 [warning] [bysabi.prettier-vscode-standard]: Cannot register 'prettier.useTabs'. This property is already registered.
+2025-01-27 01:14:12.202 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-01-27 01:14:13.678 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.

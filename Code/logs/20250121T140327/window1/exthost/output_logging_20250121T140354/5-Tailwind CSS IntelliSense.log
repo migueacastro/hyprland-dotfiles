@@ -1,0 +1,53 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+{"tailwind":{"version":"3.4.17","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":false},"path":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts"}
+[Global] Creating projects: [{"folder":"/home/miguel/Desktop/repositories/dimpro-rest","config":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts","selectors":[{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts","priority":0},{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/**","priority":3},{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/**","priority":5}],"user":false,"tailwind":{"version":"3.4.17","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":false}}]
+[Global] Preparing projects...
+[Global] Adding watch patterns: /home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts, /home/miguel/Desktop/repositories/dimpro-rest/frontend, /home/miguel/Desktop/repositories/dimpro-rest, /home/miguel/Desktop/repositories/dimpro-rest/frontend/dimprotheme.ts
+[Global] Initializing projects...
+[frontend/tailwind.config.ts] Initializing...
+[frontend/tailwind.config.ts] supported features: ["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"]
+[frontend/tailwind.config.ts] Loaded tailwindcss v3.4.17: /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/tailwindcss
+[frontend/tailwind.config.ts] Loaded Tailwind CSS config file: /home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts
+[frontend/tailwind.config.ts] Loaded postcss v8.5.1: /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/postcss
+[frontend/tailwind.config.ts] Building...
+[Global] Initialized 1 projects
+----------
+RESTARTING
+----------
+[Info  - 2:40:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte',
+  normalPath: '/home/miguel/Desktop/repositories/dimpro-rest/frontend/src/routes/(app)/+layout.svelte'
+}
+Searching for Tailwind CSS projects in the workspace's folders.
+{"tailwind":{"version":"3.4.17","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":false},"path":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts"}
+[Global] Creating projects: [{"folder":"/home/miguel/Desktop/repositories/dimpro-rest","config":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts","selectors":[{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts","priority":0},{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/**","priority":3},{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/**","priority":5}],"user":false,"tailwind":{"version":"3.4.17","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":false}}]
+[Global] Preparing projects...
+[Global] Adding watch patterns: /home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts, /home/miguel/Desktop/repositories/dimpro-rest/frontend, /home/miguel/Desktop/repositories/dimpro-rest, /home/miguel/Desktop/repositories/dimpro-rest/frontend/dimprotheme.ts
+[Global] Initializing projects...
+[frontend/tailwind.config.ts] Initializing...
+[frontend/tailwind.config.ts] supported features: ["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"]
+[frontend/tailwind.config.ts] Loaded tailwindcss v3.4.17: /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/tailwindcss
+[frontend/tailwind.config.ts] Loaded Tailwind CSS config file: /home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts
+[frontend/tailwind.config.ts] Loaded postcss v8.5.1: /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/postcss
+[frontend/tailwind.config.ts] Building...
+[Global] Initialized 1 projects
+----------
+RESTARTING
+----------
+Searching for Tailwind CSS projects in the workspace's folders.
+{"tailwind":{"version":"3.4.17","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":false},"path":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts"}
+[Global] Creating projects: [{"folder":"/home/miguel/Desktop/repositories/dimpro-rest","config":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts","selectors":[{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts","priority":0},{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/frontend/**","priority":3},{"pattern":"/home/miguel/Desktop/repositories/dimpro-rest/**","priority":5}],"user":false,"tailwind":{"version":"3.4.17","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":false}}]
+[Global] Preparing projects...
+[Global] Adding watch patterns: /home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts, /home/miguel/Desktop/repositories/dimpro-rest/frontend, /home/miguel/Desktop/repositories/dimpro-rest, /home/miguel/Desktop/repositories/dimpro-rest/frontend/dimprotheme.ts
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[frontend/tailwind.config.ts] Initializing...
+[frontend/tailwind.config.ts] supported features: ["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"]
+[frontend/tailwind.config.ts] Loaded tailwindcss v3.4.17: /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/tailwindcss
+[frontend/tailwind.config.ts] Loaded Tailwind CSS config file: /home/miguel/Desktop/repositories/dimpro-rest/frontend/tailwind.config.ts
+[frontend/tailwind.config.ts] Loaded postcss v8.5.1: /home/miguel/Desktop/repositories/dimpro-rest/frontend/node_modules/postcss
+[frontend/tailwind.config.ts] Building...

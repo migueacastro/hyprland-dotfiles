@@ -1,0 +1,5 @@
+-Didea.suppressed.plugins.set.selector=radler
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/miguel/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=6edb1170-8ec8-47e9-8ef0-e7823549e4d6
+-Dtoolbox.notification.portFile=/home/miguel/.cache/JetBrains/Toolbox/ports/f1534317-9856-4309-ba02-8bad9328f99f.port

@@ -1,0 +1,6 @@
+2025/01/21-22:27:44.234 928f Creating DB /home/miguel/.config/chromium/Default/IndexedDB/https_notitarde.com.ve_0.indexeddb.leveldb since it was missing.
+2025/01/21-22:27:44.249 928f Reusing MANIFEST /home/miguel/.config/chromium/Default/IndexedDB/https_notitarde.com.ve_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/21-22:27:44.574 927e Level-0 table #5: started
+2025/01/21-22:27:44.579 927e Level-0 table #5: 1405 bytes OK
+2025/01/21-22:27:44.586 927e Delete type=0 #3
+2025/01/21-22:27:44.587 927e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

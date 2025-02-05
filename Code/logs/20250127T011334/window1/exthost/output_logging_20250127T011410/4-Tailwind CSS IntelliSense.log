@@ -1,0 +1,51 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+{"tailwind":{"version":"3.4.4","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":true},"path":"/opt/lampp/htdocs/tarea1/tailwind/tailwind.mjs"}
+[Global] Creating projects: [{"folder":"/opt/lampp/htdocs","config":"/opt/lampp/htdocs/tarea1/tailwind/tailwind.mjs","selectors":[{"pattern":"/opt/lampp/htdocs/tarea1/tailwind/tailwind.mjs","priority":0},{"pattern":"/opt/lampp/htdocs/tarea1/tailwind/**","priority":3},{"pattern":"/opt/lampp/htdocs/**","priority":4},{"pattern":"/opt/lampp/htdocs/**","priority":5}],"user":false,"tailwind":{"version":"3.4.4","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":true}}]
+[Global] Preparing projects...
+[Global] Adding watch patterns: /opt/lampp/htdocs/tarea1/tailwind/tailwind.mjs, /opt/lampp/htdocs/tarea1/tailwind, /opt/lampp/htdocs/tarea1, /opt/lampp/htdocs
+[Global] Initializing projects...
+[tarea1/tailwind/tailwind.mjs] Initializing...
+[Error - 1:14:15 AM] Error: Can't resolve 'tailwindcss' in '/opt/lampp/htdocs/tarea1/tailwind'
+    at H (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:130:7155)
+    at /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:131:713
+    at /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:5:78), <anonymous>:16:1)
+    at /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:5:78), <anonymous>:15:1) {
+  details: "resolve 'tailwindcss' in '/opt/lampp/htdocs/tarea1/tailwind'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in /opt/lampp/htdocs/tarea1/tailwind or above\n' +
+    '  resolve as module\n' +
+    "    /opt/lampp/htdocs/tarea1/tailwind/node_modules doesn't exist or is not a directory\n" +
+    "    /opt/lampp/htdocs/tarea1/node_modules doesn't exist or is not a directory\n" +
+    "    /opt/lampp/htdocs/node_modules doesn't exist or is not a directory\n" +
+    "    /opt/lampp/node_modules doesn't exist or is not a directory\n" +
+    "    /opt/node_modules doesn't exist or is not a directory\n" +
+    "    /node_modules doesn't exist or is not a directory"
+}
+[tarea1/tailwind/tailwind.mjs] Failed to load workspace modules.
+[tarea1/tailwind/tailwind.mjs] Using bundled version of `tailwindcss`: v3.4.4
+[tarea1/tailwind/tailwind.mjs] Using bundled version of `postcss`: v8.4.31
+[tarea1/tailwind/tailwind.mjs] Building...
+[Warn  - 1:14:15 AM] The browser build of Tailwind CSS should not be used in production. To use Tailwind CSS in production, use the Tailwind CLI, Vite plugin, or PostCSS plugin: https://tailwindcss.com/docs/installation
+[Error - 1:14:15 AM] Tailwind CSS: document is not defined
+ReferenceError: document is not defined
+    at /opt/lampp/htdocs/tarea1/tailwind/tailwind.mjs:873:598
+    at yo (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:741:16547)
+    at Ui (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:741:15228)
+    at /home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:1305:4036
+    at Object.Ttt [as module] (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:1305:4041)
+    at C (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:1777:17779)
+    at D (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:1777:11782)
+    at P (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:1777:17262)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.S [as tryInit] (/home/miguel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1/dist/tailwindServer.js:1777:11661)
+[Global] Initialized 1 projects

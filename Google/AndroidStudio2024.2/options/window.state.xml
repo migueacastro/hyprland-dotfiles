@@ -1,0 +1,26 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="499" />
+  </component>
+  <component name="WindowManager">
+    <frame x="14" y="67" width="1892" height="999" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="960" y="566" width="1892" height="999" key="WELCOME_SCREEN" timestamp="1736438736253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="566" width="1892" height="999" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1680.1050" timestamp="1736438736253" />
+    <state x="576" y="165" width="937" height="999" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame" timestamp="1736439163628">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="576" y="165" width="937" height="999" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame/0.0.1920.1080/1920.0.1680.1050" timestamp="1736439163628" />
+    <state x="501" y="505" key="ide.config.custom.settings" timestamp="1736403406716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="501" y="505" key="ide.config.custom.settings/0.0.1920.1080/1920.0.1680.1050" timestamp="1736403406716" />
+    <state x="560" y="228" width="800" height="676" key="new project wizard" timestamp="1736438807945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="228" width="800" height="676" key="new project wizard/0.0.1920.1080/1920.0.1680.1050" timestamp="1736438807945" />
+  </component>
+</application>

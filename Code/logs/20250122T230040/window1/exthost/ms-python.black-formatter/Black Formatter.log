@@ -1,0 +1,98 @@
+2025-01-22 23:00:58.194 [info] Name: Black Formatter
+2025-01-22 23:00:58.194 [info] Module: black
+2025-01-22 23:00:58.194 [info] Default formatter is set to null for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-22 23:00:58.194 [warning] Black Formatter is NOT set as the default formatter for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-22 23:00:58.194 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-01-22 23:00:58.194 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-01-22 23:00:58.194 [info] Python extension loading
+2025-01-22 23:00:58.194 [info] Waiting for interpreter from python extension.
+2025-01-22 23:00:58.215 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-22 23:00:58.215 [info] Getting interpreter from ms-python.python extension for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-22 23:00:58.216 [info] Python extension loaded
+2025-01-22 23:00:58.219 [info] Interpreter from ms-python.python extension for /home/miguel/Desktop/repositories/dimpro-rest: /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-22 23:00:58.219 [info] Workspace settings for /home/miguel/Desktop/repositories/dimpro-rest (client side): {
+    "cwd": "/home/miguel/Desktop/repositories/dimpro-rest",
+    "workspace": "file:///home/miguel/Desktop/repositories/dimpro-rest",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-22 23:00:58.220 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-22 23:00:58.220 [info] Getting interpreter from ms-python.python extension for workspace /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-22 23:00:58.257 [info] Interpreter from ms-python.python extension for /home/miguel/Desktop/repositories/dimpro-rest: /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python
+2025-01-22 23:00:58.257 [info] Workspace settings for /home/miguel/Desktop/repositories/dimpro-rest (client side): {
+    "cwd": "/home/miguel/Desktop/repositories/dimpro-rest",
+    "workspace": "file:///home/miguel/Desktop/repositories/dimpro-rest",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-22 23:00:58.258 [info] Global settings (client side): {
+    "cwd": "/home/miguel",
+    "workspace": "/home/miguel",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-22 23:00:58.266 [info] Server run command: /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python /home/miguel/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2025-01-22 23:00:58.267 [info] Server: Start requested.
+2025-01-22 23:00:58.973 [info] CWD Server: /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-22 23:00:58.973 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/miguel/Desktop/repositories/dimpro-rest",
+        "workspace": "file:///home/miguel/Desktop/repositories/dimpro-rest",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-01-22 23:00:58.973 [info] Global settings received on server:
+{
+    "cwd": "/home/miguel",
+    "workspace": "/home/miguel",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-01-22 23:00:58.974 [info] sys.path used to run Server:
+   /home/miguel/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/miguel/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/lib/python3.13/site-packages
+2025-01-22 23:00:58.976 [info] /home/miguel/Desktop/repositories/dimpro-rest/backend/.venv/bin/python -m black --version
+2025-01-22 23:00:58.976 [info] CWD formatter: /home/miguel/Desktop/repositories/dimpro-rest
+2025-01-22 23:00:59.087 [info] Version info for formatter running for /home/miguel/Desktop/repositories/dimpro-rest:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.1
+
+2025-01-22 23:00:59.088 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2025-01-22 23:03:56.665 [info] [Trace - 11:03:56 PM] Sending notification 'textDocument/didClose'.
+2025-01-22 23:03:56.669 [info] [Trace - 11:03:56 PM] Sending notification 'textDocument/didClose'.
+2025-01-22 23:03:56.683 [info] [Trace - 11:03:56 PM] Sending notification 'textDocument/didClose'.
+2025-01-22 23:03:56.687 [info] [Trace - 11:03:56 PM] Sending notification 'textDocument/didClose'.

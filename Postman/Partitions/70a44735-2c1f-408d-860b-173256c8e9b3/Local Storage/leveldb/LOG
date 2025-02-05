@@ -1,0 +1,18 @@
+2025/01/28-23:31:08.917 c466 Reusing MANIFEST /home/miguel/.config/Postman/Partitions/70a44735-2c1f-408d-860b-173256c8e9b3/Local Storage/leveldb/MANIFEST-000001
+2025/01/28-23:31:08.918 c466 Recovering log #12
+2025/01/28-23:31:08.918 c466 Reusing old log /home/miguel/.config/Postman/Partitions/70a44735-2c1f-408d-860b-173256c8e9b3/Local Storage/leveldb/000012.log 
+2025/01/29-00:33:15.860 c467 Level-0 table #16: started
+2025/01/29-00:33:15.865 c467 Level-0 table #16: 18743 bytes OK
+2025/01/29-00:33:15.869 c467 Delete type=0 #12
+2025/01/29-01:10:13.069 c467 Level-0 table #18: started
+2025/01/29-01:10:13.073 c467 Level-0 table #18: 19610 bytes OK
+2025/01/29-01:10:13.078 c467 Delete type=0 #15
+2025/01/29-01:10:13.079 c467 Compacting 4@0 + 1@1 files
+2025/01/29-01:10:13.082 c467 Generated table #19@0: 7 keys, 4883 bytes
+2025/01/29-01:10:13.082 c467 Compacted 4@0 + 1@1 files => 4883 bytes
+2025/01/29-01:10:13.086 c467 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/29-01:10:13.086 c467 Delete type=2 #10
+2025/01/29-01:10:13.086 c467 Delete type=2 #7
+2025/01/29-01:10:13.086 c467 Delete type=2 #13
+2025/01/29-01:10:13.086 c467 Delete type=2 #18
+2025/01/29-01:10:13.086 c467 Delete type=2 #16
